@@ -37,6 +37,7 @@ The first step to create a new widget is to create a folder for the widget files
 Widget folders cannot include spaces. Learn more about building widgets in the [documentation](https://developers.arcgis.com/experience-builder/).
 
 Mine looks like this ![[Pasted image 20240719223303.png]]
+![[Pasted image 20240719223303.png]]
 
 
 Pull the WindWidget code into turbinehub
