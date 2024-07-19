@@ -36,8 +36,8 @@ The first step to create a new widget is to create a folder for the widget files
 
 Widget folders cannot include spaces. Learn more about building widgets in the [documentation](https://developers.arcgis.com/experience-builder/).
 
-Mine looks like this ![[Pasted image 20240719223303.png]]
-![[Pasted image 20240719223303.png]]
+Mine looks like this 
+![Screenshot 2024-07-19 223242](https://github.com/user-attachments/assets/70456485-353f-4823-ac5f-1e0e5fc7f282)
 
 
 Pull the WindWidget code into turbinehub
@@ -50,14 +50,13 @@ https://developers.arcgis.com/experience-builder/guide/install-guide/
 
 Now when you open the app you should see the turbinehub widget in the Custom section of the Insert widget menu
 
-![[Pasted image 20240719223806.png]]
+![Screenshot 2024-07-19 223801](https://github.com/user-attachments/assets/33b33915-03dc-481f-8543-af0ab5326e0f)
 
 
 When you drag the widget into the section you want it to appear in (same as using any other widget)  you will have to configure the Content section 
 
 Select Connect to data
-
-![[Pasted image 20240719223948.png]]
+![Screenshot 2024-07-19 223942](https://github.com/user-attachments/assets/fd6b5572-6bf8-44cb-a757-7d2dfc0941ad)
 
 You must select a layer with the same schema as US Onshore Wind Projects (layers come from the map you have added to the page).  This is because the fields used for Latitude, longitude, hub height come from that layers fields.  If you have other layers with the same information in the same fields it will also work,  code in the custom widget that picks out those values shown below
 
@@ -73,7 +72,7 @@ With that set you should now be able to use the widget in you Experience Builder
 To deploy the app once you have it configured how you want it, click the 3 dots on the top menu of Experience Builder and select Download
 
 
-![[Pasted image 20240719224847.png]]
+![Screenshot 2024-07-19 224844](https://github.com/user-attachments/assets/4e6c699b-95d1-4419-9ba0-923cb8a43ab7)
 
 That will download a zip file.
 
@@ -82,14 +81,14 @@ Pull The Github repository https://github.com/TurbineHub/WindWidgetApp/ to you d
 Extract the downloaded zip file into the directory you have the WindWidgetApp repo, mine looks like this
 
 
-![[Pasted image 20240719225156.png]]
+![Screenshot 2024-07-19 225150](https://github.com/user-attachments/assets/e14909ce-17c5-4743-90b5-43359d95b29e)
 
 The add, commit and push the code
 
 This should kick off a build and deploy of the code at the WindWidgetApp repo. 
 Currently it is not working though,  it looks like the org admin has to enable Pages.
 
-![[Pasted image 20240719222515.png]]
+![Screenshot 2024-07-19 222510](https://github.com/user-attachments/assets/bc865f09-1058-443a-9452-7bb94734c78f)
 
 Once that github pages issue is resolved we have the workflow to create and publish Custom Widgets
 
