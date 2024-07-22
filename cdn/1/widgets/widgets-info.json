@@ -7999,62 +7999,6 @@
     "group": 9
   },
   {
-    "name": "floodMapSearch",
-    "manifest": {
-      "name": "floodMapSearch",
-      "label": "Flood Map Search",
-      "type": "widget",
-      "version": "1.14.0",
-      "exbVersion": "1.14.0",
-      "author": "Digital Atlas Australia",
-      "description": "POC for AFRIP",
-      "copyright": "",
-      "license": "http://www.apache.org/licenses/LICENSE-2.0",
-      "properties": {},
-      "translatedLocales": [
-        "en"
-      ],
-      "defaultSize": {
-        "width": 800,
-        "height": 500
-      }
-    },
-    "i18nLabel": {},
-    "i18nDescription": {},
-    "uri": "widgets/floodMapSearch/",
-    "icon": "widgets/floodMapSearch/icon.svg",
-    "order": 700,
-    "group": 7
-  },
-  {
-    "name": "mapSelect",
-    "manifest": {
-      "name": "mapSelect",
-      "label": "Map Select",
-      "type": "widget",
-      "version": "1.14.0",
-      "exbVersion": "1.14.0",
-      "author": "Esri R&D Center Beijing",
-      "description": "This is a barebones, simple widget. It includes an example of how to use the config file, and it includes a placeholder SVG icon. It intentionally does not include the following so you can use this to start from scratch: i18n translations, a Settings panel, unit tests. See the documentation for more information on how to implement these features.",
-      "copyright": "",
-      "license": "http://www.apache.org/licenses/LICENSE-2.0",
-      "properties": {},
-      "translatedLocales": [
-        "en"
-      ],
-      "defaultSize": {
-        "width": 800,
-        "height": 500
-      }
-    },
-    "i18nLabel": {},
-    "i18nDescription": {},
-    "uri": "widgets/mapSelect/",
-    "icon": "widgets/mapSelect/icon.svg",
-    "order": 700,
-    "group": 7
-  },
-  {
     "name": "simple",
     "manifest": {
       "name": "simple",
