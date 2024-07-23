@@ -1,6 +1,6 @@
 {
   "name": "turbinehub",
-  "label": "turbinehub",
+  "label": "Analyze Wind Resource",
   "type": "widget",
   "version": "1.14.0",
   "exbVersion": "1.14.0",
