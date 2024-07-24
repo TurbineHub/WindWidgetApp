@@ -1,0 +1,5353 @@
+{
+  "pages": {
+    "page_0": {
+      "id": "page_0",
+      "mode": "AUTO_SCROLL",
+      "type": "NORMAL",
+      "layout": {
+        "LARGE": "layout_0"
+      },
+      "isDefault": true,
+      "isVisible": true,
+      "label": "Page",
+      "footer": false,
+      "header": true
+    }
+  },
+  "layouts": {
+    "layout_0": {
+      "type": "FLOW",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_1",
+          "bbox": {
+            "left": "445px",
+            "right": "845px",
+            "top": "0px",
+            "bottom": "400px",
+            "width": "400px",
+            "height": 771
+          },
+          "setting": {
+            "heightMode": "fixed"
+          }
+        },
+        "1": {
+          "type": "WIDGET",
+          "widgetId": "widget_4",
+          "bbox": {
+            "left": "0px",
+            "right": "450px",
+            "top": "317px",
+            "bottom": "617px",
+            "width": "450px",
+            "height": 530
+          },
+          "setting": {
+            "heightMode": "fixed"
+          }
+        },
+        "2": {
+          "type": "WIDGET",
+          "widgetId": "widget_11",
+          "bbox": {
+            "left": "35px",
+            "right": "485px",
+            "top": "660px",
+            "bottom": "960px",
+            "width": "450px",
+            "height": 528
+          },
+          "setting": {
+            "heightMode": "fixed"
+          }
+        }
+      },
+      "order": [
+        "0",
+        "1",
+        "2"
+      ]
+    },
+    "layout_1": {
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_2",
+          "setting": {
+            "heightMode": "fit"
+          },
+          "bbox": {
+            "left": 3,
+            "width": 9,
+            "height": "400px"
+          }
+        },
+        "1": {
+          "type": "WIDGET",
+          "widgetId": "widget_20",
+          "setting": {
+            "autoProps": {
+              "height": "STRETCH"
+            }
+          },
+          "bbox": {
+            "left": 0,
+            "width": 3,
+            "height": "400px"
+          }
+        }
+      },
+      "type": "ROW",
+      "label": "Default",
+      "order": [
+        "1",
+        "0"
+      ]
+    },
+    "layout_2": {
+      "content": {},
+      "type": "FIXED",
+      "label": "Map FixedLayout"
+    },
+    "layout_3": {
+      "content": {
+        "2": {
+          "type": "WIDGET",
+          "widgetId": "widget_7",
+          "setting": {
+            "autoProps": {
+              "height": "STRETCH"
+            }
+          },
+          "bbox": {
+            "left": 3,
+            "width": 3,
+            "height": "298px"
+          }
+        },
+        "3": {
+          "type": "WIDGET",
+          "widgetId": "widget_8",
+          "setting": {
+            "autoProps": {
+              "height": "STRETCH"
+            }
+          },
+          "bbox": {
+            "left": 0,
+            "width": 3,
+            "height": "298px"
+          }
+        },
+        "8": {
+          "type": "WIDGET",
+          "widgetId": "widget_13",
+          "setting": {
+            "autoProps": {
+              "height": "STRETCH"
+            },
+            "heightMode": "fixed",
+            "aspectRatio": 1.65
+          },
+          "bbox": {
+            "left": 6,
+            "width": 3,
+            "height": "507px"
+          }
+        },
+        "9": {
+          "type": "WIDGET",
+          "widgetId": "widget_12",
+          "setting": {
+            "autoProps": {
+              "height": "STRETCH"
+            }
+          },
+          "bbox": {
+            "left": 9,
+            "width": 3,
+            "height": "296px"
+          }
+        }
+      },
+      "type": "ROW",
+      "label": "Default",
+      "order": [
+        "2",
+        "3",
+        "8",
+        "9"
+      ]
+    },
+    "layout_4": {
+      "content": {
+        "2": {
+          "type": "WIDGET",
+          "widgetId": "widget_14",
+          "setting": {
+            "autoProps": {
+              "height": "STRETCH"
+            }
+          },
+          "bbox": {
+            "left": 9,
+            "width": 3,
+            "height": "298px"
+          }
+        },
+        "3": {
+          "type": "WIDGET",
+          "widgetId": "widget_16",
+          "setting": {
+            "autoProps": {
+              "height": "STRETCH"
+            }
+          },
+          "bbox": {
+            "left": 6,
+            "width": 3,
+            "height": "296px"
+          }
+        },
+        "4": {
+          "type": "WIDGET",
+          "widgetId": "widget_18",
+          "setting": {
+            "autoProps": {
+              "height": "STRETCH"
+            }
+          },
+          "bbox": {
+            "left": 0,
+            "width": 3,
+            "height": "296px"
+          }
+        },
+        "5": {
+          "type": "WIDGET",
+          "widgetId": "widget_15",
+          "setting": {
+            "autoProps": {
+              "height": "STRETCH"
+            }
+          },
+          "bbox": {
+            "left": 3,
+            "width": 3,
+            "height": "296px"
+          }
+        }
+      },
+      "type": "ROW",
+      "label": "Default",
+      "order": [
+        "4",
+        "5",
+        "2",
+        "3"
+      ]
+    },
+    "layout_5": {
+      "content": {},
+      "type": "FIXED",
+      "setting": {
+        "lockDescendants": true
+      }
+    },
+    "layout_6": {
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_19",
+          "bbox": {
+            "left": "0.0%",
+            "right": "67.1%",
+            "top": "0.0%",
+            "bottom": "6.7%",
+            "width": "32.9%",
+            "height": "93.3%"
+          },
+          "setting": {
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "top": false,
+              "bottom": true
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        }
+      },
+      "type": "FIXED",
+      "setting": {
+        "lockDescendants": true
+      },
+      "order": [
+        "0"
+      ]
+    },
+    "layout_7": {
+      "type": "GRID",
+      "order": [
+        "0",
+        "1",
+        "3"
+      ],
+      "content": {
+        "1": {
+          "type": "WIDGET",
+          "bbox": {
+            "width": 100
+          },
+          "gridType": 3,
+          "widgetId": "widget_3",
+          "parent": "3"
+        },
+        "2": {
+          "type": "WIDGET",
+          "widgetId": "widget_21",
+          "gridType": 3,
+          "parent": "3",
+          "bbox": {
+            "width": 100
+          },
+          "expandable": true
+        },
+        "3": {
+          "gridType": 2,
+          "bbox": {
+            "width": 100
+          },
+          "children": [
+            "1",
+            "5",
+            "2",
+            "4",
+            "6"
+          ],
+          "activeTab": 4
+        },
+        "4": {
+          "type": "WIDGET",
+          "widgetId": "widget_22",
+          "gridType": 3,
+          "parent": "3",
+          "bbox": {
+            "width": 100
+          }
+        },
+        "5": {
+          "type": "WIDGET",
+          "widgetId": "widget_23",
+          "gridType": 3,
+          "bbox": {
+            "width": 100
+          },
+          "parent": "3",
+          "expandable": false
+        },
+        "6": {
+          "type": "WIDGET",
+          "widgetId": "widget_24",
+          "gridType": 3,
+          "parent": "3",
+          "bbox": {
+            "width": 100
+          }
+        }
+      },
+      "setting": {
+        "rootItem": "3"
+      },
+      "label": "Default"
+    }
+  },
+  "exbVersion": "1.15.0",
+  "mainSizeMode": "LARGE",
+  "theme": "themes/dark/",
+  "forBuilderAttributes": {
+    "lockLayout": false
+  },
+  "template": "blankscrollable",
+  "widgets": {
+    "widget_1": {
+      "uri": "widgets/layout/row/",
+      "version": "1.15.0",
+      "label": "Tabs",
+      "config": {
+        "space": 10,
+        "style": {
+          "padding": {
+            "number": [
+              10
+            ],
+            "unit": "px"
+          }
+        }
+      },
+      "id": "widget_1",
+      "layouts": {
+        "DEFAULT": {
+          "LARGE": "layout_1"
+        }
+      }
+    },
+    "widget_2": {
+      "uri": "widgets/arcgis/arcgis-map/",
+      "version": "1.15.0",
+      "label": "Map",
+      "config": {
+        "toolConfig": {
+          "canZoom": true,
+          "canHome": true,
+          "canSearch": true,
+          "canNavigation": true,
+          "canLayers": true
+        },
+        "isUseCustomMapState": false,
+        "clientQueryDataSourceIds": [],
+        "initialMapState": null,
+        "initialMapDataSourceID": "dataSource_1"
+      },
+      "id": "widget_2",
+      "layouts": {
+        "MapFixedLayout": {
+          "LARGE": "layout_2"
+        }
+      },
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_1",
+          "mainDataSourceId": "dataSource_1"
+        }
+      ]
+    },
+    "widget_3": {
+      "uri": "widgets/arcgis/legend/",
+      "version": "1.15.0",
+      "label": "Legend",
+      "config": {
+        "style": {
+          "useCustom": false
+        }
+      },
+      "id": "widget_3",
+      "useMapWidgetIds": [
+        "widget_2"
+      ]
+    },
+    "widget_4": {
+      "uri": "widgets/layout/row/",
+      "version": "1.15.0",
+      "label": "Block 2",
+      "config": {
+        "space": 10,
+        "style": {
+          "padding": {
+            "number": [
+              10
+            ],
+            "unit": "px"
+          }
+        }
+      },
+      "id": "widget_4",
+      "layouts": {
+        "DEFAULT": {
+          "LARGE": "layout_3"
+        }
+      }
+    },
+    "widget_7": {
+      "uri": "widgets/common/chart/",
+      "version": "1.15.0",
+      "label": "Chart 3",
+      "config": {
+        "tools": {
+          "cursorEnable": false
+        },
+        "template": "donut",
+        "webChart": {
+          "version": "9.4.0",
+          "id": "donut",
+          "type": "chart",
+          "dataSource": {
+            "query": {
+              "groupByFieldsForStatistics": [
+                "state1"
+              ],
+              "outStatistics": [
+                {
+                  "statisticType": "count",
+                  "onStatisticField": "OBJECTID",
+                  "outStatisticFieldName": "count_of_OBJECTID"
+                }
+              ],
+              "orderByFields": [
+                "state1 DESC"
+              ],
+              "pageSize": 10,
+              "where": ""
+            }
+          },
+          "sortLabelsBy": "originalValue",
+          "series": [
+            {
+              "type": "pieSeries",
+              "colorType": "singleColor",
+              "id": "OBJECTID",
+              "name": "OBJECTID",
+              "x": "state1",
+              "y": "count_of_OBJECTID",
+              "innerRadius": 60,
+              "startAngle": 0,
+              "endAngle": 360,
+              "displayNumericValueOnDataLabel": false,
+              "displayPercentageOnDataLabel": true,
+              "displayNumericValueOnTooltip": true,
+              "displayPercentageOnTooltip": true,
+              "dataLabelsOffset": -1,
+              "sliceGrouping": {
+                "sliceId": "__other-slice__",
+                "percentageThreshold": 0,
+                "label": "Other"
+              },
+              "numericValueFormat": {
+                "type": "number",
+                "intlOptions": {
+                  "style": "decimal",
+                  "useGrouping": true,
+                  "minimumFractionDigits": 0,
+                  "maximumFractionDigits": 3
+                }
+              },
+              "percentValueFormat": {
+                "type": "number",
+                "intlOptions": {
+                  "style": "percent",
+                  "notation": "standard",
+                  "minimumFractionDigits": 0,
+                  "maximumFractionDigits": 1
+                }
+              },
+              "fillSymbol": {
+                "type": "esriSFS",
+                "style": "esriSFSSolid",
+                "color": "#D6D6D6",
+                "outline": {
+                  "type": "esriSLS",
+                  "style": "esriSLSSolid",
+                  "color": "var(--light-100)",
+                  "width": 1
+                }
+              },
+              "dataLabels": {
+                "type": "chartText",
+                "visible": true,
+                "content": {
+                  "type": "esriTS",
+                  "color": "var(--dark-600)",
+                  "font": {
+                    "family": "Avenir Next",
+                    "size": 10,
+                    "style": "normal",
+                    "weight": "normal",
+                    "decoration": "none"
+                  },
+                  "horizontalAlignment": "center",
+                  "verticalAlignment": "top"
+                }
+              },
+              "dataTooltipVisible": true,
+              "slices": [
+                {
+                  "sliceId": " WY",
+                  "label": " WY",
+                  "fillSymbol": {
+                    "type": "esriSFS",
+                    "style": "esriSFSSolid",
+                    "color": "var(--warning-300)",
+                    "outline": {
+                      "type": "esriSLS",
+                      "style": "esriSLSSolid",
+                      "color": "var(--light-100)",
+                      "width": 1
+                    }
+                  }
+                },
+                {
+                  "sliceId": " WV",
+                  "label": " WV",
+                  "fillSymbol": {
+                    "type": "esriSFS",
+                    "style": "esriSFSSolid",
+                    "color": "#77B484",
+                    "outline": {
+                      "type": "esriSLS",
+                      "style": "esriSLSSolid",
+                      "color": "var(--light-100)",
+                      "width": 1
+                    }
+                  }
+                },
+                {
+                  "sliceId": " WI",
+                  "label": " WI",
+                  "fillSymbol": {
+                    "type": "esriSFS",
+                    "style": "esriSFSSolid",
+                    "color": "#DF6B35",
+                    "outline": {
+                      "type": "esriSLS",
+                      "style": "esriSLSSolid",
+                      "color": "var(--light-100)",
+                      "width": 1
+                    }
+                  }
+                },
+                {
+                  "sliceId": " WA",
+                  "label": " WA",
+                  "fillSymbol": {
+                    "type": "esriSFS",
+                    "style": "esriSFSSolid",
+                    "color": "#DBCF4E",
+                    "outline": {
+                      "type": "esriSLS",
+                      "style": "esriSLSSolid",
+                      "color": "var(--light-100)",
+                      "width": 1
+                    }
+                  }
+                },
+                {
+                  "sliceId": " VT",
+                  "label": " VT",
+                  "fillSymbol": {
+                    "type": "esriSFS",
+                    "style": "esriSFSSolid",
+                    "color": "#41546D",
+                    "outline": {
+                      "type": "esriSLS",
+                      "style": "esriSLSSolid",
+                      "color": "var(--light-100)",
+                      "width": 1
+                    }
+                  }
+                },
+                {
+                  "sliceId": " VA",
+                  "label": " VA",
+                  "fillSymbol": {
+                    "type": "esriSFS",
+                    "style": "esriSFSSolid",
+                    "color": "#8257C2",
+                    "outline": {
+                      "type": "esriSLS",
+                      "style": "esriSLSSolid",
+                      "color": "var(--light-100)",
+                      "width": 1
+                    }
+                  }
+                },
+                {
+                  "sliceId": " UT",
+                  "label": " UT",
+                  "fillSymbol": {
+                    "type": "esriSFS",
+                    "style": "esriSFSSolid",
+                    "color": "#D6558B",
+                    "outline": {
+                      "type": "esriSLS",
+                      "style": "esriSLSSolid",
+                      "color": "var(--light-100)",
+                      "width": 1
+                    }
+                  }
+                },
+                {
+                  "sliceId": " TX",
+                  "label": " TX",
+                  "fillSymbol": {
+                    "type": "esriSFS",
+                    "style": "esriSFSSolid",
+                    "color": "var(--success-200)",
+                    "outline": {
+                      "type": "esriSLS",
+                      "style": "esriSLSSolid",
+                      "color": "var(--light-100)",
+                      "width": 1
+                    }
+                  }
+                },
+                {
+                  "sliceId": " TN",
+                  "label": " TN",
+                  "fillSymbol": {
+                    "type": "esriSFS",
+                    "style": "esriSFSSolid",
+                    "color": "var(--info)",
+                    "outline": {
+                      "type": "esriSLS",
+                      "style": "esriSLSSolid",
+                      "color": "var(--light-100)",
+                      "width": 1
+                    }
+                  }
+                },
+                {
+                  "sliceId": " SD",
+                  "label": " SD",
+                  "fillSymbol": {
+                    "type": "esriSFS",
+                    "style": "esriSFSSolid",
+                    "color": "#DF6B35",
+                    "outline": {
+                      "type": "esriSLS",
+                      "style": "esriSLSSolid",
+                      "color": "var(--light-100)",
+                      "width": 1
+                    }
+                  }
+                }
+              ],
+              "alignDataLabels": false
+            }
+          ],
+          "background": "var(--white)",
+          "title": {
+            "type": "chartText",
+            "visible": true,
+            "content": {
+              "type": "esriTS",
+              "color": "var(--black)",
+              "font": {
+                "family": "Avenir Next",
+                "size": 12,
+                "style": "normal",
+                "weight": "normal",
+                "decoration": "none"
+              },
+              "horizontalAlignment": "center",
+              "text": "Top 10 States for Renewable Energy Devlopment"
+            }
+          },
+          "footer": {
+            "type": "chartText",
+            "visible": false,
+            "content": {
+              "type": "esriTS",
+              "color": "var(--dark-800)",
+              "font": {
+                "family": "Avenir Next",
+                "size": 14,
+                "style": "normal",
+                "weight": "normal",
+                "decoration": "none"
+              },
+              "horizontalAlignment": "center",
+              "text": ""
+            }
+          },
+          "legend": {
+            "type": "chartLegend",
+            "visible": false,
+            "title": {
+              "type": "chartText",
+              "visible": true,
+              "content": {
+                "type": "esriTS",
+                "color": "var(--dark-800)",
+                "font": {
+                  "family": "Avenir Next",
+                  "size": 20,
+                  "style": "normal",
+                  "weight": "normal",
+                  "decoration": "none"
+                },
+                "horizontalAlignment": "center",
+                "text": ""
+              }
+            },
+            "body": {
+              "type": "esriTS",
+              "color": "var(--dark-800)",
+              "font": {
+                "family": "Avenir Next",
+                "size": 14,
+                "style": "normal",
+                "weight": "normal",
+                "decoration": "none"
+              },
+              "horizontalAlignment": "center",
+              "text": ""
+            },
+            "position": "right",
+            "labelMaxWidth": 200
+          }
+        }
+      },
+      "id": "widget_7",
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_1-1900892d1d9-layer-29-190198c567d-layer-31",
+          "mainDataSourceId": "dataSource_1-1900892d1d9-layer-29-190198c567d-layer-31",
+          "rootDataSourceId": "dataSource_1",
+          "fields": [
+            "state1",
+            "OBJECTID"
+          ]
+        }
+      ],
+      "outputDataSources": [
+        "widget_7_ouput"
+      ]
+    },
+    "widget_8": {
+      "uri": "widgets/common/chart/",
+      "version": "1.15.0",
+      "label": "Chart 4",
+      "config": {
+        "tools": {
+          "cursorEnable": true
+        },
+        "template": "donut",
+        "webChart": {
+          "version": "9.4.0",
+          "id": "donut",
+          "type": "chart",
+          "dataSource": {
+            "query": {
+              "groupByFieldsForStatistics": [
+                "phasetype"
+              ],
+              "outStatistics": [
+                {
+                  "statisticType": "count",
+                  "onStatisticField": "OBJECTID",
+                  "outStatisticFieldName": "count_of_OBJECTID"
+                }
+              ],
+              "orderByFields": [
+                "phasetype DESC"
+              ],
+              "where": ""
+            }
+          },
+          "sortLabelsBy": "originalValue",
+          "series": [
+            {
+              "type": "pieSeries",
+              "colorType": "singleColor",
+              "id": "OBJECTID",
+              "name": "OBJECTID",
+              "x": "phasetype",
+              "y": "count_of_OBJECTID",
+              "innerRadius": 60,
+              "startAngle": 0,
+              "endAngle": 360,
+              "displayNumericValueOnDataLabel": true,
+              "displayPercentageOnDataLabel": false,
+              "displayNumericValueOnTooltip": true,
+              "displayPercentageOnTooltip": true,
+              "dataLabelsOffset": 0,
+              "sliceGrouping": {
+                "sliceId": "__other-slice__",
+                "percentageThreshold": 0,
+                "label": "Other"
+              },
+              "numericValueFormat": {
+                "type": "number",
+                "intlOptions": {
+                  "style": "decimal",
+                  "useGrouping": true,
+                  "minimumFractionDigits": 0,
+                  "maximumFractionDigits": 3
+                }
+              },
+              "percentValueFormat": {
+                "type": "number",
+                "intlOptions": {
+                  "style": "percent",
+                  "notation": "standard",
+                  "minimumFractionDigits": 0,
+                  "maximumFractionDigits": 3
+                }
+              },
+              "fillSymbol": {
+                "type": "esriSFS",
+                "style": "esriSFSSolid",
+                "color": "#D6D6D6",
+                "outline": {
+                  "type": "esriSLS",
+                  "style": "esriSLSSolid",
+                  "color": "var(--light-100)",
+                  "width": 1
+                }
+              },
+              "dataLabels": {
+                "type": "chartText",
+                "visible": true,
+                "content": {
+                  "type": "esriTS",
+                  "color": "var(--dark-600)",
+                  "font": {
+                    "family": "Avenir Next",
+                    "size": 10,
+                    "style": "normal",
+                    "weight": "normal",
+                    "decoration": "none"
+                  },
+                  "horizontalAlignment": "center",
+                  "verticalAlignment": "top"
+                }
+              },
+              "dataTooltipVisible": true,
+              "slices": [
+                {
+                  "sliceId": "Storage",
+                  "label": "Storage",
+                  "fillSymbol": {
+                    "type": "esriSFS",
+                    "style": "esriSFSSolid",
+                    "color": "var(--warning)",
+                    "outline": {
+                      "type": "esriSLS",
+                      "style": "esriSLSSolid",
+                      "color": "var(--light-100)",
+                      "width": 1
+                    }
+                  }
+                },
+                {
+                  "sliceId": "Solar",
+                  "label": "Solar",
+                  "fillSymbol": {
+                    "type": "esriSFS",
+                    "style": "esriSFSSolid",
+                    "color": "var(--danger)",
+                    "outline": {
+                      "type": "esriSLS",
+                      "style": "esriSLSSolid",
+                      "color": "var(--light-100)",
+                      "width": 1
+                    }
+                  }
+                },
+                {
+                  "sliceId": " Wind",
+                  "label": " Wind",
+                  "fillSymbol": {
+                    "type": "esriSFS",
+                    "style": "esriSFSSolid",
+                    "color": "#5E8FD0",
+                    "outline": {
+                      "type": "esriSLS",
+                      "style": "esriSLSSolid",
+                      "color": "var(--light-100)",
+                      "width": 1
+                    }
+                  }
+                }
+              ],
+              "alignDataLabels": false,
+              "optimizeDataLabelsOverlapping": false
+            }
+          ],
+          "background": "var(--white)",
+          "title": {
+            "type": "chartText",
+            "visible": true,
+            "content": {
+              "type": "esriTS",
+              "color": "var(--black)",
+              "font": {
+                "family": "Avenir Next",
+                "size": 12,
+                "style": "normal",
+                "weight": "normal",
+                "decoration": "none"
+              },
+              "horizontalAlignment": "center",
+              "text": "US Renewable Energy Projects by  Project Type"
+            }
+          },
+          "footer": {
+            "type": "chartText",
+            "visible": true,
+            "content": {
+              "type": "esriTS",
+              "color": "var(--dark-800)",
+              "font": {
+                "family": "Avenir Next",
+                "size": 12,
+                "style": "normal",
+                "weight": "normal",
+                "decoration": "none"
+              },
+              "horizontalAlignment": "center",
+              "text": ""
+            }
+          },
+          "legend": {
+            "type": "chartLegend",
+            "visible": false,
+            "title": {
+              "type": "chartText",
+              "visible": true,
+              "content": {
+                "type": "esriTS",
+                "color": "var(--dark-800)",
+                "font": {
+                  "family": "Avenir Next",
+                  "size": 20,
+                  "style": "normal",
+                  "weight": "normal",
+                  "decoration": "none"
+                },
+                "horizontalAlignment": "center",
+                "text": ""
+              }
+            },
+            "body": {
+              "type": "esriTS",
+              "color": "var(--dark-800)",
+              "font": {
+                "family": "Avenir Next",
+                "size": 10,
+                "style": "normal",
+                "weight": "normal",
+                "decoration": "none"
+              },
+              "horizontalAlignment": "center",
+              "text": ""
+            },
+            "position": "right",
+            "labelMaxWidth": 200
+          }
+        }
+      },
+      "id": "widget_8",
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_1-1900892d1d9-layer-29-190198c567d-layer-31",
+          "mainDataSourceId": "dataSource_1-1900892d1d9-layer-29-190198c567d-layer-31",
+          "rootDataSourceId": "dataSource_1",
+          "fields": [
+            "phasetype",
+            "OBJECTID"
+          ]
+        }
+      ],
+      "outputDataSources": [
+        "widget_8_ouput"
+      ]
+    },
+    "widget_11": {
+      "uri": "widgets/layout/row/",
+      "version": "1.15.0",
+      "label": "Block 3",
+      "config": {
+        "space": 10,
+        "style": {
+          "padding": {
+            "number": [
+              10
+            ],
+            "unit": "px"
+          }
+        }
+      },
+      "id": "widget_11",
+      "layouts": {
+        "DEFAULT": {
+          "LARGE": "layout_4"
+        }
+      }
+    },
+    "widget_12": {
+      "uri": "widgets/common/chart/",
+      "version": "1.15.0",
+      "label": "Chart 5",
+      "config": {
+        "tools": {
+          "cursorEnable": true
+        },
+        "template": "column",
+        "webChart": {
+          "version": "9.4.0",
+          "id": "column",
+          "type": "chart",
+          "dataSource": {
+            "query": {
+              "groupByFieldsForStatistics": [
+                "offtaketype1"
+              ],
+              "outStatistics": [
+                {
+                  "statisticType": "count",
+                  "onStatisticField": "OBJECTID",
+                  "outStatisticFieldName": "count_of_OBJECTID"
+                }
+              ],
+              "orderByFields": [
+                "count_of_OBJECTID DESC"
+              ],
+              "pageSize": 9,
+              "where": ""
+            }
+          },
+          "sortLabelsBy": "originalValue",
+          "rotated": false,
+          "series": [
+            {
+              "type": "barSeries",
+              "id": "OBJECTID",
+              "name": "OBJECTID",
+              "x": "offtaketype1",
+              "y": "count_of_OBJECTID",
+              "colorType": "singleColor",
+              "stackedType": "sideBySide",
+              "fillSymbol": {
+                "type": "esriSFS",
+                "style": "esriSFSSolid",
+                "color": "#5E8FD0",
+                "outline": {
+                  "type": "esriSLS",
+                  "style": "esriSLSSolid",
+                  "color": "var(--light-900)",
+                  "width": 0
+                }
+              },
+              "dataLabels": {
+                "type": "chartText",
+                "visible": true,
+                "content": {
+                  "type": "esriTS",
+                  "color": "var(--dark-600)",
+                  "font": {
+                    "family": "Avenir Next",
+                    "size": 10,
+                    "style": "normal",
+                    "weight": "normal",
+                    "decoration": "none"
+                  },
+                  "horizontalAlignment": "center",
+                  "verticalAlignment": "top"
+                }
+              },
+              "rotated": false,
+              "dataTooltipVisible": true,
+              "hideOversizedStackedLabels": false
+            }
+          ],
+          "axes": [
+            {
+              "type": "chartAxis",
+              "visible": true,
+              "isLogarithmic": false,
+              "title": {
+                "type": "chartText",
+                "visible": true,
+                "content": {
+                  "type": "esriTS",
+                  "color": "var(--dark-800)",
+                  "font": {
+                    "family": "Avenir Next",
+                    "size": 14,
+                    "style": "normal",
+                    "weight": "normal",
+                    "decoration": "none"
+                  },
+                  "horizontalAlignment": "center",
+                  "verticalAlignment": "middle",
+                  "text": "Offtake Type"
+                }
+              },
+              "labels": {
+                "type": "chartText",
+                "visible": true,
+                "content": {
+                  "type": "esriTS",
+                  "color": "var(--dark-500)",
+                  "font": {
+                    "family": "Avenir Next",
+                    "size": 8,
+                    "style": "normal",
+                    "weight": "normal",
+                    "decoration": "none"
+                  },
+                  "horizontalAlignment": "center",
+                  "verticalAlignment": "middle",
+                  "text": ""
+                }
+              },
+              "valueFormat": {
+                "type": "category",
+                "characterLimit": 11
+              },
+              "lineSymbol": {
+                "type": "esriSLS",
+                "style": "esriSLSSolid",
+                "color": "var(--light-800)",
+                "width": 1
+              },
+              "grid": {
+                "type": "esriSLS",
+                "style": "esriSLSDash",
+                "color": "var(--light-300)",
+                "width": 0
+              }
+            },
+            {
+              "type": "chartAxis",
+              "visible": true,
+              "isLogarithmic": false,
+              "title": {
+                "type": "chartText",
+                "visible": true,
+                "content": {
+                  "type": "esriTS",
+                  "color": "var(--dark-800)",
+                  "font": {
+                    "family": "Avenir Next",
+                    "size": 14,
+                    "style": "normal",
+                    "weight": "normal",
+                    "decoration": "none"
+                  },
+                  "horizontalAlignment": "center",
+                  "verticalAlignment": "middle",
+                  "text": "Project Count"
+                }
+              },
+              "labels": {
+                "type": "chartText",
+                "visible": true,
+                "content": {
+                  "type": "esriTS",
+                  "color": "var(--dark-500)",
+                  "font": {
+                    "family": "Avenir Next",
+                    "size": 8,
+                    "style": "normal",
+                    "weight": "normal",
+                    "decoration": "none"
+                  },
+                  "horizontalAlignment": "center",
+                  "verticalAlignment": "middle",
+                  "text": ""
+                }
+              },
+              "valueFormat": {
+                "type": "number",
+                "intlOptions": {
+                  "style": "decimal",
+                  "useGrouping": true,
+                  "minimumFractionDigits": 0,
+                  "maximumFractionDigits": 0
+                }
+              },
+              "lineSymbol": {
+                "type": "esriSLS",
+                "style": "esriSLSSolid",
+                "color": "var(--light-800)",
+                "width": 1
+              },
+              "grid": {
+                "type": "esriSLS",
+                "style": "esriSLSDash",
+                "color": "var(--light-300)",
+                "width": 0
+              }
+            }
+          ],
+          "background": "var(--white)",
+          "title": {
+            "type": "chartText",
+            "visible": true,
+            "content": {
+              "type": "esriTS",
+              "color": "var(--black)",
+              "font": {
+                "family": "Avenir Next",
+                "size": 12,
+                "style": "normal",
+                "weight": "normal",
+                "decoration": "none"
+              },
+              "horizontalAlignment": "center",
+              "text": "Projects in the US by Offtake Type"
+            }
+          },
+          "footer": {
+            "type": "chartText",
+            "visible": true,
+            "content": {
+              "type": "esriTS",
+              "color": "var(--dark-800)",
+              "font": {
+                "family": "Avenir Next",
+                "size": 14,
+                "style": "normal",
+                "weight": "normal",
+                "decoration": "none"
+              },
+              "horizontalAlignment": "center",
+              "text": ""
+            }
+          },
+          "legend": {
+            "type": "chartLegend",
+            "visible": false,
+            "title": {
+              "type": "chartText",
+              "visible": true,
+              "content": {
+                "type": "esriTS",
+                "color": "var(--dark-800)",
+                "font": {
+                  "family": "Avenir Next",
+                  "size": 20,
+                  "style": "normal",
+                  "weight": "normal",
+                  "decoration": "none"
+                },
+                "horizontalAlignment": "center",
+                "text": ""
+              }
+            },
+            "body": {
+              "type": "esriTS",
+              "color": "var(--dark-800)",
+              "font": {
+                "family": "Avenir Next",
+                "size": 14,
+                "style": "normal",
+                "weight": "normal",
+                "decoration": "none"
+              },
+              "horizontalAlignment": "center",
+              "text": ""
+            },
+            "position": "right"
+          }
+        }
+      },
+      "id": "widget_12",
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_1-1900892d1d9-layer-29-190198c567d-layer-31",
+          "mainDataSourceId": "dataSource_1-1900892d1d9-layer-29-190198c567d-layer-31",
+          "rootDataSourceId": "dataSource_1",
+          "fields": [
+            "offtaketype1",
+            "OBJECTID"
+          ]
+        }
+      ],
+      "outputDataSources": [
+        "widget_12_ouput"
+      ]
+    },
+    "widget_13": {
+      "uri": "widgets/common/chart/",
+      "version": "1.15.0",
+      "label": "Chart 6",
+      "config": {
+        "tools": {
+          "cursorEnable": false
+        },
+        "template": "histogram",
+        "webChart": {
+          "version": "9.4.0",
+          "id": "histogram",
+          "type": "chart",
+          "dataSource": {
+            "query": {
+              "outFields": [
+                "pparate1"
+              ],
+              "orderByFields": [
+                "pparate1 ASC"
+              ]
+            }
+          },
+          "sortLabelsBy": "originalValue",
+          "series": [
+            {
+              "type": "histogramSeries",
+              "colorType": "singleColor",
+              "id": "pparate1",
+              "name": "PPA Rate (1)",
+              "x": "pparate1",
+              "binCount": 15,
+              "overlays": {
+                "type": "chartOverlays",
+                "mean": {
+                  "type": "chartOverlay",
+                  "visible": true,
+                  "created": true,
+                  "symbol": {
+                    "type": "esriSLS",
+                    "style": "esriSLSDash",
+                    "color": "var(--dark)",
+                    "width": 1
+                  }
+                },
+                "median": {
+                  "type": "chartOverlay",
+                  "visible": true,
+                  "created": false,
+                  "symbol": {
+                    "type": "esriSLS",
+                    "style": "esriSLSDash",
+                    "color": "#33A02C",
+                    "width": 1
+                  }
+                },
+                "standardDeviation": {
+                  "type": "chartOverlay",
+                  "visible": true,
+                  "created": false,
+                  "symbol": {
+                    "type": "esriSLS",
+                    "style": "esriSLSDash",
+                    "color": "#B2DF8A",
+                    "width": 1
+                  }
+                },
+                "comparisonDistribution": {
+                  "type": "chartOverlay",
+                  "visible": true,
+                  "created": false,
+                  "symbol": {
+                    "type": "esriSLS",
+                    "style": "esriSLSDash",
+                    "color": "#E31A1C",
+                    "width": 1
+                  }
+                }
+              },
+              "dataTransformationType": "none",
+              "fillSymbol": {
+                "type": "esriSFS",
+                "style": "esriSFSSolid",
+                "color": "#DF6B35",
+                "outline": {
+                  "type": "esriSLS",
+                  "style": "esriSLSSolid",
+                  "color": "var(--light-900)",
+                  "width": 0
+                }
+              },
+              "dataLabels": {
+                "type": "chartText",
+                "visible": true,
+                "content": {
+                  "type": "esriTS",
+                  "color": "var(--dark-600)",
+                  "font": {
+                    "family": "Avenir Next",
+                    "size": 10,
+                    "style": "normal",
+                    "weight": "normal",
+                    "decoration": "none"
+                  },
+                  "horizontalAlignment": "center",
+                  "verticalAlignment": "middle"
+                }
+              },
+              "rotated": false,
+              "dataTooltipVisible": true
+            }
+          ],
+          "axes": [
+            {
+              "type": "chartAxis",
+              "visible": true,
+              "isLogarithmic": false,
+              "title": {
+                "type": "chartText",
+                "visible": true,
+                "content": {
+                  "type": "esriTS",
+                  "color": "var(--dark-800)",
+                  "font": {
+                    "family": "Avenir Next",
+                    "size": 14,
+                    "style": "normal",
+                    "weight": "normal",
+                    "decoration": "none"
+                  },
+                  "horizontalAlignment": "center",
+                  "verticalAlignment": "middle",
+                  "text": "PPA Price ($)"
+                }
+              },
+              "labels": {
+                "type": "chartText",
+                "visible": true,
+                "content": {
+                  "type": "esriTS",
+                  "color": "var(--dark-500)",
+                  "font": {
+                    "family": "Avenir Next",
+                    "size": 14,
+                    "style": "normal",
+                    "weight": "normal",
+                    "decoration": "none"
+                  },
+                  "horizontalAlignment": "center",
+                  "verticalAlignment": "middle"
+                }
+              },
+              "valueFormat": {
+                "type": "number",
+                "intlOptions": {
+                  "style": "decimal",
+                  "notation": "standard",
+                  "minimumFractionDigits": 0,
+                  "maximumFractionDigits": 2
+                }
+              },
+              "lineSymbol": {
+                "type": "esriSLS",
+                "style": "esriSLSSolid",
+                "color": "var(--light-800)",
+                "width": 1
+              },
+              "grid": {
+                "type": "esriSLS",
+                "style": "esriSLSDash",
+                "color": "var(--light-300)",
+                "width": 0
+              }
+            },
+            {
+              "type": "chartAxis",
+              "visible": true,
+              "isLogarithmic": false,
+              "title": {
+                "type": "chartText",
+                "visible": true,
+                "content": {
+                  "type": "esriTS",
+                  "color": "var(--dark-800)",
+                  "font": {
+                    "family": "Avenir Next",
+                    "size": 14,
+                    "style": "normal",
+                    "weight": "normal",
+                    "decoration": "none"
+                  },
+                  "horizontalAlignment": "center",
+                  "verticalAlignment": "middle",
+                  "text": "PPA Count"
+                }
+              },
+              "labels": {
+                "type": "chartText",
+                "visible": true,
+                "content": {
+                  "type": "esriTS",
+                  "color": "var(--dark-500)",
+                  "font": {
+                    "family": "Avenir Next",
+                    "size": 14,
+                    "style": "normal",
+                    "weight": "normal",
+                    "decoration": "none"
+                  },
+                  "horizontalAlignment": "center",
+                  "verticalAlignment": "middle"
+                }
+              },
+              "valueFormat": {
+                "type": "number",
+                "intlOptions": {
+                  "style": "decimal",
+                  "notation": "standard",
+                  "minimumFractionDigits": 0,
+                  "maximumFractionDigits": 0
+                }
+              },
+              "lineSymbol": {
+                "type": "esriSLS",
+                "style": "esriSLSSolid",
+                "color": "var(--light-800)",
+                "width": 1
+              },
+              "grid": {
+                "type": "esriSLS",
+                "style": "esriSLSDash",
+                "color": "var(--light-300)",
+                "width": 0
+              }
+            }
+          ],
+          "background": "var(--white)",
+          "title": {
+            "type": "chartText",
+            "visible": true,
+            "content": {
+              "type": "esriTS",
+              "color": "var(--black)",
+              "font": {
+                "family": "Avenir Next",
+                "size": 12,
+                "style": "normal",
+                "weight": "normal",
+                "decoration": "none"
+              },
+              "horizontalAlignment": "center",
+              "text": "Distribution of PPA Prices for Renewable Energy Projects in the US"
+            }
+          },
+          "footer": {
+            "type": "chartText",
+            "visible": true,
+            "content": {
+              "type": "esriTS",
+              "color": "var(--dark-800)",
+              "font": {
+                "family": "Avenir Next",
+                "size": 14,
+                "style": "normal",
+                "weight": "normal",
+                "decoration": "none"
+              },
+              "horizontalAlignment": "center",
+              "text": ""
+            }
+          },
+          "legend": {
+            "type": "chartLegend",
+            "visible": true,
+            "title": {
+              "type": "chartText",
+              "visible": true,
+              "content": {
+                "type": "esriTS",
+                "color": "var(--dark-800)",
+                "font": {
+                  "family": "Avenir Next",
+                  "size": 20,
+                  "style": "normal",
+                  "weight": "normal",
+                  "decoration": "none"
+                },
+                "horizontalAlignment": "center",
+                "text": ""
+              }
+            },
+            "body": {
+              "type": "esriTS",
+              "color": "var(--dark-800)",
+              "font": {
+                "family": "Avenir Next",
+                "size": 14,
+                "style": "normal",
+                "weight": "normal",
+                "decoration": "none"
+              },
+              "horizontalAlignment": "center",
+              "text": ""
+            },
+            "position": "right"
+          }
+        }
+      },
+      "id": "widget_13",
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_1-1900892d1d9-layer-29-190198c567d-layer-31",
+          "mainDataSourceId": "dataSource_1-1900892d1d9-layer-29-190198c567d-layer-31",
+          "rootDataSourceId": "dataSource_1",
+          "fields": [
+            "pparate1"
+          ]
+        }
+      ],
+      "outputDataSources": [
+        "widget_13_ouput"
+      ]
+    },
+    "widget_14": {
+      "uri": "widgets/common/chart/",
+      "version": "1.15.0",
+      "label": "Chart 7",
+      "config": {
+        "tools": {
+          "cursorEnable": true
+        },
+        "template": "scatter",
+        "webChart": {
+          "version": "9.4.0",
+          "id": "scatter",
+          "type": "chart",
+          "dataSource": {
+            "query": {
+              "outFields": [
+                "grossavgcapacitylife",
+                "mwtotcap"
+              ],
+              "orderByFields": [
+                "grossavgcapacitylife ASC"
+              ]
+            }
+          },
+          "sortLabelsBy": "originalValue",
+          "series": [
+            {
+              "type": "scatterSeries",
+              "colorType": "singleColor",
+              "id": "mwtotcap",
+              "name": "MW Total Capacity",
+              "x": "grossavgcapacitylife",
+              "y": "mwtotcap",
+              "markerSymbol": {
+                "type": "esriSMS",
+                "style": "esriSMSCircle",
+                "color": "var(--danger)",
+                "size": 4,
+                "outline": {
+                  "type": "esriSLS",
+                  "style": "esriSLSSolid",
+                  "color": "var(--light-900)",
+                  "width": 0
+                }
+              },
+              "overlays": {
+                "type": "chartOverlays",
+                "trendLine": {
+                  "type": "chartOverlay",
+                  "created": true,
+                  "visible": false,
+                  "symbol": {
+                    "type": "esriSLS",
+                    "style": "esriSLSSolid",
+                    "color": "#DF6B35",
+                    "width": 3
+                  }
+                }
+              },
+              "dataTooltipVisible": true
+            }
+          ],
+          "axes": [
+            {
+              "type": "chartAxis",
+              "visible": true,
+              "isLogarithmic": false,
+              "title": {
+                "type": "chartText",
+                "visible": true,
+                "content": {
+                  "type": "esriTS",
+                  "color": "var(--dark-800)",
+                  "font": {
+                    "family": "Avenir Next",
+                    "size": 14,
+                    "style": "normal",
+                    "weight": "normal",
+                    "decoration": "none"
+                  },
+                  "horizontalAlignment": "center",
+                  "verticalAlignment": "middle",
+                  "text": "Capacity Factor "
+                }
+              },
+              "labels": {
+                "type": "chartText",
+                "visible": true,
+                "content": {
+                  "type": "esriTS",
+                  "color": "var(--dark-500)",
+                  "font": {
+                    "family": "Avenir Next",
+                    "size": 14,
+                    "style": "normal",
+                    "weight": "normal",
+                    "decoration": "none"
+                  },
+                  "horizontalAlignment": "center",
+                  "verticalAlignment": "middle"
+                }
+              },
+              "valueFormat": {
+                "type": "number",
+                "intlOptions": {
+                  "style": "decimal",
+                  "notation": "standard",
+                  "minimumFractionDigits": 2,
+                  "maximumFractionDigits": 2
+                }
+              },
+              "lineSymbol": {
+                "type": "esriSLS",
+                "style": "esriSLSSolid",
+                "color": "var(--light-800)",
+                "width": 1
+              },
+              "grid": {
+                "type": "esriSLS",
+                "style": "esriSLSDash",
+                "color": "var(--light-300)",
+                "width": 0
+              }
+            },
+            {
+              "type": "chartAxis",
+              "visible": true,
+              "isLogarithmic": false,
+              "title": {
+                "type": "chartText",
+                "visible": true,
+                "content": {
+                  "type": "esriTS",
+                  "color": "var(--dark-800)",
+                  "font": {
+                    "family": "Avenir Next",
+                    "size": 14,
+                    "style": "normal",
+                    "weight": "normal",
+                    "decoration": "none"
+                  },
+                  "horizontalAlignment": "center",
+                  "verticalAlignment": "middle",
+                  "text": "Capacity  (MW)"
+                }
+              },
+              "labels": {
+                "type": "chartText",
+                "visible": true,
+                "content": {
+                  "type": "esriTS",
+                  "color": "var(--dark-500)",
+                  "font": {
+                    "family": "Avenir Next",
+                    "size": 14,
+                    "style": "normal",
+                    "weight": "normal",
+                    "decoration": "none"
+                  },
+                  "horizontalAlignment": "center",
+                  "verticalAlignment": "middle"
+                }
+              },
+              "valueFormat": {
+                "type": "number",
+                "intlOptions": {
+                  "style": "decimal",
+                  "notation": "standard",
+                  "minimumFractionDigits": 0,
+                  "maximumFractionDigits": 0
+                }
+              },
+              "lineSymbol": {
+                "type": "esriSLS",
+                "style": "esriSLSSolid",
+                "color": "var(--light-800)",
+                "width": 1
+              },
+              "grid": {
+                "type": "esriSLS",
+                "style": "esriSLSDash",
+                "color": "var(--light-300)",
+                "width": 0
+              }
+            }
+          ],
+          "background": "var(--white)",
+          "title": {
+            "type": "chartText",
+            "visible": true,
+            "content": {
+              "type": "esriTS",
+              "color": "var(--black)",
+              "font": {
+                "family": "Avenir Next",
+                "size": 12,
+                "style": "normal",
+                "weight": "normal",
+                "decoration": "none"
+              },
+              "horizontalAlignment": "center",
+              "text": "US Solar Capacity Factor by Total Capacity"
+            }
+          },
+          "footer": {
+            "type": "chartText",
+            "visible": true,
+            "content": {
+              "type": "esriTS",
+              "color": "var(--dark-800)",
+              "font": {
+                "family": "Avenir Next",
+                "size": 14,
+                "style": "normal",
+                "weight": "normal",
+                "decoration": "none"
+              },
+              "horizontalAlignment": "center",
+              "text": ""
+            }
+          },
+          "legend": {
+            "type": "chartLegend",
+            "visible": false,
+            "title": {
+              "type": "chartText",
+              "visible": true,
+              "content": {
+                "type": "esriTS",
+                "color": "var(--dark-800)",
+                "font": {
+                  "family": "Avenir Next",
+                  "size": 20,
+                  "style": "normal",
+                  "weight": "normal",
+                  "decoration": "none"
+                },
+                "horizontalAlignment": "center",
+                "text": ""
+              }
+            },
+            "body": {
+              "type": "esriTS",
+              "color": "var(--dark-800)",
+              "font": {
+                "family": "Avenir Next",
+                "size": 14,
+                "style": "normal",
+                "weight": "normal",
+                "decoration": "none"
+              },
+              "horizontalAlignment": "center",
+              "text": ""
+            },
+            "position": "right"
+          }
+        }
+      },
+      "id": "widget_14",
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_1-1900892d1d9-layer-29-19027bc5267-layer-32",
+          "mainDataSourceId": "dataSource_1-1900892d1d9-layer-29-19027bc5267-layer-32",
+          "rootDataSourceId": "dataSource_1",
+          "fields": [
+            "grossavgcapacitylife",
+            "mwtotcap"
+          ]
+        }
+      ],
+      "outputDataSources": [
+        "widget_14_ouput"
+      ]
+    },
+    "widget_15": {
+      "uri": "widgets/common/chart/",
+      "version": "1.15.0",
+      "label": "Chart 8",
+      "config": {
+        "tools": {
+          "cursorEnable": true
+        },
+        "template": "scatter",
+        "webChart": {
+          "version": "9.4.0",
+          "id": "scatter",
+          "type": "chart",
+          "dataSource": {
+            "query": {
+              "outFields": [
+                "averagecapacityfactorlifetime",
+                "mwtotalcapacity"
+              ],
+              "orderByFields": [
+                "averagecapacityfactorlifetime ASC"
+              ]
+            }
+          },
+          "sortLabelsBy": "originalValue",
+          "series": [
+            {
+              "type": "scatterSeries",
+              "colorType": "singleColor",
+              "id": "mwtotalcapacity",
+              "name": "MW Total Capacity",
+              "x": "averagecapacityfactorlifetime",
+              "y": "mwtotalcapacity",
+              "markerSymbol": {
+                "type": "esriSMS",
+                "style": "esriSMSCircle",
+                "color": "var(--success-400)",
+                "size": 4,
+                "outline": {
+                  "type": "esriSLS",
+                  "style": "esriSLSSolid",
+                  "color": "var(--light-900)",
+                  "width": 0
+                }
+              },
+              "overlays": {
+                "type": "chartOverlays",
+                "trendLine": {
+                  "type": "chartOverlay",
+                  "created": true,
+                  "visible": false,
+                  "symbol": {
+                    "type": "esriSLS",
+                    "style": "esriSLSSolid",
+                    "color": "#DF6B35",
+                    "width": 3
+                  }
+                }
+              },
+              "dataTooltipVisible": true
+            }
+          ],
+          "axes": [
+            {
+              "type": "chartAxis",
+              "visible": true,
+              "isLogarithmic": false,
+              "title": {
+                "type": "chartText",
+                "visible": true,
+                "content": {
+                  "type": "esriTS",
+                  "color": "var(--dark-800)",
+                  "font": {
+                    "family": "Avenir Next",
+                    "size": 14,
+                    "style": "normal",
+                    "weight": "normal",
+                    "decoration": "none"
+                  },
+                  "horizontalAlignment": "center",
+                  "verticalAlignment": "middle",
+                  "text": "Capacity Factor "
+                }
+              },
+              "labels": {
+                "type": "chartText",
+                "visible": true,
+                "content": {
+                  "type": "esriTS",
+                  "color": "var(--dark-500)",
+                  "font": {
+                    "family": "Avenir Next",
+                    "size": 14,
+                    "style": "normal",
+                    "weight": "normal",
+                    "decoration": "none"
+                  },
+                  "horizontalAlignment": "center",
+                  "verticalAlignment": "middle"
+                }
+              },
+              "valueFormat": {
+                "type": "number",
+                "intlOptions": {
+                  "style": "decimal",
+                  "notation": "standard",
+                  "minimumFractionDigits": 2,
+                  "maximumFractionDigits": 2
+                }
+              },
+              "lineSymbol": {
+                "type": "esriSLS",
+                "style": "esriSLSSolid",
+                "color": "var(--light-800)",
+                "width": 1
+              },
+              "grid": {
+                "type": "esriSLS",
+                "style": "esriSLSDash",
+                "color": "var(--light-300)",
+                "width": 0
+              }
+            },
+            {
+              "type": "chartAxis",
+              "visible": true,
+              "isLogarithmic": false,
+              "title": {
+                "type": "chartText",
+                "visible": true,
+                "content": {
+                  "type": "esriTS",
+                  "color": "var(--dark-800)",
+                  "font": {
+                    "family": "Avenir Next",
+                    "size": 14,
+                    "style": "normal",
+                    "weight": "normal",
+                    "decoration": "none"
+                  },
+                  "horizontalAlignment": "center",
+                  "verticalAlignment": "middle",
+                  "text": "Capacity (MW)"
+                }
+              },
+              "labels": {
+                "type": "chartText",
+                "visible": true,
+                "content": {
+                  "type": "esriTS",
+                  "color": "var(--dark-500)",
+                  "font": {
+                    "family": "Avenir Next",
+                    "size": 14,
+                    "style": "normal",
+                    "weight": "normal",
+                    "decoration": "none"
+                  },
+                  "horizontalAlignment": "center",
+                  "verticalAlignment": "middle"
+                }
+              },
+              "valueFormat": {
+                "type": "number",
+                "intlOptions": {
+                  "style": "decimal",
+                  "notation": "standard",
+                  "minimumFractionDigits": 0,
+                  "maximumFractionDigits": 0
+                }
+              },
+              "lineSymbol": {
+                "type": "esriSLS",
+                "style": "esriSLSSolid",
+                "color": "var(--light-800)",
+                "width": 1
+              },
+              "grid": {
+                "type": "esriSLS",
+                "style": "esriSLSDash",
+                "color": "var(--light-300)",
+                "width": 0
+              }
+            }
+          ],
+          "background": "var(--white)",
+          "title": {
+            "type": "chartText",
+            "visible": true,
+            "content": {
+              "type": "esriTS",
+              "color": "var(--black)",
+              "font": {
+                "family": "Avenir Next",
+                "size": 12,
+                "style": "normal",
+                "weight": "normal",
+                "decoration": "none"
+              },
+              "horizontalAlignment": "center",
+              "text": "US Wind Capacity Factor by Total Capacity"
+            }
+          },
+          "footer": {
+            "type": "chartText",
+            "visible": true,
+            "content": {
+              "type": "esriTS",
+              "color": "var(--dark-800)",
+              "font": {
+                "family": "Avenir Next",
+                "size": 14,
+                "style": "normal",
+                "weight": "normal",
+                "decoration": "none"
+              },
+              "horizontalAlignment": "center",
+              "text": ""
+            }
+          },
+          "legend": {
+            "type": "chartLegend",
+            "visible": false,
+            "title": {
+              "type": "chartText",
+              "visible": true,
+              "content": {
+                "type": "esriTS",
+                "color": "var(--dark-800)",
+                "font": {
+                  "family": "Avenir Next",
+                  "size": 20,
+                  "style": "normal",
+                  "weight": "normal",
+                  "decoration": "none"
+                },
+                "horizontalAlignment": "center",
+                "text": ""
+              }
+            },
+            "body": {
+              "type": "esriTS",
+              "color": "var(--dark-800)",
+              "font": {
+                "family": "Avenir Next",
+                "size": 14,
+                "style": "normal",
+                "weight": "normal",
+                "decoration": "none"
+              },
+              "horizontalAlignment": "center",
+              "text": ""
+            },
+            "position": "right"
+          }
+        }
+      },
+      "id": "widget_15",
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_1-1900892d1d9-layer-29-19027239c5f-layer-32",
+          "mainDataSourceId": "dataSource_1-1900892d1d9-layer-29-19027239c5f-layer-32",
+          "rootDataSourceId": "dataSource_1",
+          "fields": [
+            "averagecapacityfactorlifetime",
+            "mwtotalcapacity"
+          ]
+        }
+      ],
+      "outputDataSources": [
+        "widget_15_ouput"
+      ]
+    },
+    "widget_16": {
+      "uri": "widgets/common/chart/",
+      "version": "1.15.0",
+      "label": "Chart 9",
+      "config": {
+        "tools": {
+          "cursorEnable": true
+        },
+        "template": "bar",
+        "webChart": {
+          "version": "9.4.0",
+          "id": "bar",
+          "type": "chart",
+          "dataSource": {
+            "query": {
+              "groupByFieldsForStatistics": [
+                "owner1"
+              ],
+              "outStatistics": [
+                {
+                  "statisticType": "count",
+                  "onStatisticField": "OBJECTID",
+                  "outStatisticFieldName": "count_of_OBJECTID"
+                }
+              ],
+              "orderByFields": [
+                "count_of_OBJECTID DESC"
+              ],
+              "pageSize": 10,
+              "where": ""
+            }
+          },
+          "sortLabelsBy": "originalValue",
+          "rotated": true,
+          "series": [
+            {
+              "type": "barSeries",
+              "id": "OBJECTID",
+              "name": "OBJECTID",
+              "x": "owner1",
+              "y": "count_of_OBJECTID",
+              "colorType": "singleColor",
+              "stackedType": "sideBySide",
+              "fillSymbol": {
+                "type": "esriSFS",
+                "style": "esriSFSSolid",
+                "color": "#5E8FD0",
+                "outline": {
+                  "type": "esriSLS",
+                  "style": "esriSLSSolid",
+                  "color": "var(--light-900)",
+                  "width": 0
+                }
+              },
+              "dataLabels": {
+                "type": "chartText",
+                "visible": true,
+                "content": {
+                  "type": "esriTS",
+                  "color": "var(--dark-600)",
+                  "font": {
+                    "family": "Avenir Next",
+                    "size": 10,
+                    "style": "normal",
+                    "weight": "normal",
+                    "decoration": "none"
+                  },
+                  "horizontalAlignment": "right",
+                  "verticalAlignment": "middle"
+                }
+              },
+              "rotated": false,
+              "dataTooltipVisible": true,
+              "hideOversizedStackedLabels": false
+            }
+          ],
+          "axes": [
+            {
+              "type": "chartAxis",
+              "visible": true,
+              "isLogarithmic": false,
+              "title": {
+                "type": "chartText",
+                "visible": true,
+                "content": {
+                  "type": "esriTS",
+                  "color": "var(--dark-800)",
+                  "font": {
+                    "family": "Avenir Next",
+                    "size": 14,
+                    "style": "normal",
+                    "weight": "normal",
+                    "decoration": "none"
+                  },
+                  "horizontalAlignment": "center",
+                  "verticalAlignment": "middle",
+                  "text": "Owner Name"
+                }
+              },
+              "labels": {
+                "type": "chartText",
+                "visible": true,
+                "content": {
+                  "type": "esriTS",
+                  "color": "var(--dark-500)",
+                  "font": {
+                    "family": "Avenir Next",
+                    "size": 11,
+                    "style": "normal",
+                    "weight": "normal",
+                    "decoration": "none"
+                  },
+                  "horizontalAlignment": "center",
+                  "verticalAlignment": "middle",
+                  "text": ""
+                }
+              },
+              "valueFormat": {
+                "type": "category",
+                "characterLimit": 11
+              },
+              "lineSymbol": {
+                "type": "esriSLS",
+                "style": "esriSLSSolid",
+                "color": "var(--light-800)",
+                "width": 1
+              },
+              "grid": {
+                "type": "esriSLS",
+                "style": "esriSLSDash",
+                "color": "var(--light-300)",
+                "width": 0
+              }
+            },
+            {
+              "type": "chartAxis",
+              "visible": true,
+              "isLogarithmic": false,
+              "title": {
+                "type": "chartText",
+                "visible": true,
+                "content": {
+                  "type": "esriTS",
+                  "color": "var(--dark-800)",
+                  "font": {
+                    "family": "Avenir Next",
+                    "size": 14,
+                    "style": "normal",
+                    "weight": "normal",
+                    "decoration": "none"
+                  },
+                  "horizontalAlignment": "center",
+                  "verticalAlignment": "middle",
+                  "text": "Project Count"
+                }
+              },
+              "labels": {
+                "type": "chartText",
+                "visible": true,
+                "content": {
+                  "type": "esriTS",
+                  "color": "var(--dark-500)",
+                  "font": {
+                    "family": "Avenir Next",
+                    "size": 11,
+                    "style": "normal",
+                    "weight": "normal",
+                    "decoration": "none"
+                  },
+                  "horizontalAlignment": "center",
+                  "verticalAlignment": "middle",
+                  "text": ""
+                }
+              },
+              "valueFormat": {
+                "type": "number",
+                "intlOptions": {
+                  "style": "decimal",
+                  "useGrouping": true,
+                  "minimumFractionDigits": 0,
+                  "maximumFractionDigits": 0
+                }
+              },
+              "lineSymbol": {
+                "type": "esriSLS",
+                "style": "esriSLSSolid",
+                "color": "var(--light-800)",
+                "width": 1
+              },
+              "grid": {
+                "type": "esriSLS",
+                "style": "esriSLSDash",
+                "color": "var(--light-300)",
+                "width": 0
+              }
+            }
+          ],
+          "background": "var(--white)",
+          "title": {
+            "type": "chartText",
+            "visible": true,
+            "content": {
+              "type": "esriTS",
+              "color": "var(--black)",
+              "font": {
+                "family": "Avenir Next",
+                "size": 15,
+                "style": "normal",
+                "weight": "normal",
+                "decoration": "none"
+              },
+              "horizontalAlignment": "center",
+              "text": "US Solar Projects by Owner"
+            }
+          },
+          "footer": {
+            "type": "chartText",
+            "visible": true,
+            "content": {
+              "type": "esriTS",
+              "color": "var(--dark-800)",
+              "font": {
+                "family": "Avenir Next",
+                "size": 14,
+                "style": "normal",
+                "weight": "normal",
+                "decoration": "none"
+              },
+              "horizontalAlignment": "center",
+              "text": ""
+            }
+          },
+          "legend": {
+            "type": "chartLegend",
+            "visible": false,
+            "title": {
+              "type": "chartText",
+              "visible": true,
+              "content": {
+                "type": "esriTS",
+                "color": "var(--dark-800)",
+                "font": {
+                  "family": "Avenir Next",
+                  "size": 20,
+                  "style": "normal",
+                  "weight": "normal",
+                  "decoration": "none"
+                },
+                "horizontalAlignment": "center",
+                "text": ""
+              }
+            },
+            "body": {
+              "type": "esriTS",
+              "color": "var(--dark-800)",
+              "font": {
+                "family": "Avenir Next",
+                "size": 14,
+                "style": "normal",
+                "weight": "normal",
+                "decoration": "none"
+              },
+              "horizontalAlignment": "center",
+              "text": ""
+            },
+            "position": "right"
+          }
+        }
+      },
+      "id": "widget_16",
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_1-1900892d1d9-layer-29-19027bc5267-layer-32",
+          "mainDataSourceId": "dataSource_1-1900892d1d9-layer-29-19027bc5267-layer-32",
+          "rootDataSourceId": "dataSource_1",
+          "fields": [
+            "owner1",
+            "OBJECTID"
+          ]
+        }
+      ],
+      "outputDataSources": [
+        "widget_16_ouput"
+      ]
+    },
+    "widget_18": {
+      "uri": "widgets/common/chart/",
+      "version": "1.15.0",
+      "label": "Chart 10",
+      "config": {
+        "tools": {
+          "cursorEnable": true
+        },
+        "template": "column",
+        "webChart": {
+          "version": "9.4.0",
+          "id": "column",
+          "type": "chart",
+          "dataSource": {
+            "query": {
+              "groupByFieldsForStatistics": [
+                "owner1"
+              ],
+              "outStatistics": [
+                {
+                  "statisticType": "count",
+                  "onStatisticField": "OBJECTID",
+                  "outStatisticFieldName": "count_of_OBJECTID"
+                }
+              ],
+              "orderByFields": [
+                "count_of_OBJECTID DESC"
+              ],
+              "pageSize": 9,
+              "where": ""
+            }
+          },
+          "sortLabelsBy": "originalValue",
+          "rotated": true,
+          "series": [
+            {
+              "type": "barSeries",
+              "id": "OBJECTID",
+              "name": "OBJECTID",
+              "x": "owner1",
+              "y": "count_of_OBJECTID",
+              "colorType": "singleColor",
+              "stackedType": "sideBySide",
+              "fillSymbol": {
+                "type": "esriSFS",
+                "style": "esriSFSSolid",
+                "color": "#5E8FD0",
+                "outline": {
+                  "type": "esriSLS",
+                  "style": "esriSLSSolid",
+                  "color": "var(--light-900)",
+                  "width": 0
+                }
+              },
+              "dataLabels": {
+                "type": "chartText",
+                "visible": true,
+                "content": {
+                  "type": "esriTS",
+                  "color": "var(--dark-600)",
+                  "font": {
+                    "family": "Avenir Next",
+                    "size": 10,
+                    "style": "normal",
+                    "weight": "normal",
+                    "decoration": "none"
+                  },
+                  "horizontalAlignment": "right",
+                  "verticalAlignment": "middle"
+                }
+              },
+              "rotated": false,
+              "dataTooltipVisible": true,
+              "hideOversizedStackedLabels": false
+            }
+          ],
+          "axes": [
+            {
+              "type": "chartAxis",
+              "visible": true,
+              "isLogarithmic": false,
+              "title": {
+                "type": "chartText",
+                "visible": true,
+                "content": {
+                  "type": "esriTS",
+                  "color": "var(--dark-800)",
+                  "font": {
+                    "family": "Avenir Next",
+                    "size": 14,
+                    "style": "normal",
+                    "weight": "normal",
+                    "decoration": "none"
+                  },
+                  "horizontalAlignment": "center",
+                  "verticalAlignment": "middle",
+                  "text": "Owner Name"
+                }
+              },
+              "labels": {
+                "type": "chartText",
+                "visible": true,
+                "content": {
+                  "type": "esriTS",
+                  "color": "var(--dark-500)",
+                  "font": {
+                    "family": "Avenir Next",
+                    "size": 11,
+                    "style": "normal",
+                    "weight": "normal",
+                    "decoration": "none"
+                  },
+                  "horizontalAlignment": "center",
+                  "verticalAlignment": "middle",
+                  "text": ""
+                }
+              },
+              "valueFormat": {
+                "type": "category",
+                "characterLimit": 11
+              },
+              "lineSymbol": {
+                "type": "esriSLS",
+                "style": "esriSLSSolid",
+                "color": "var(--light-800)",
+                "width": 1
+              },
+              "grid": {
+                "type": "esriSLS",
+                "style": "esriSLSDash",
+                "color": "var(--light-300)",
+                "width": 0
+              }
+            },
+            {
+              "type": "chartAxis",
+              "visible": true,
+              "isLogarithmic": false,
+              "title": {
+                "type": "chartText",
+                "visible": true,
+                "content": {
+                  "type": "esriTS",
+                  "color": "var(--dark-800)",
+                  "font": {
+                    "family": "Avenir Next",
+                    "size": 14,
+                    "style": "normal",
+                    "weight": "normal",
+                    "decoration": "none"
+                  },
+                  "horizontalAlignment": "center",
+                  "verticalAlignment": "middle",
+                  "text": "Project Count"
+                }
+              },
+              "labels": {
+                "type": "chartText",
+                "visible": true,
+                "content": {
+                  "type": "esriTS",
+                  "color": "var(--dark-500)",
+                  "font": {
+                    "family": "Avenir Next",
+                    "size": 11,
+                    "style": "normal",
+                    "weight": "normal",
+                    "decoration": "none"
+                  },
+                  "horizontalAlignment": "center",
+                  "verticalAlignment": "middle",
+                  "text": ""
+                }
+              },
+              "valueFormat": {
+                "type": "number",
+                "intlOptions": {
+                  "style": "decimal",
+                  "useGrouping": true,
+                  "minimumFractionDigits": 0,
+                  "maximumFractionDigits": 0
+                }
+              },
+              "lineSymbol": {
+                "type": "esriSLS",
+                "style": "esriSLSSolid",
+                "color": "var(--light-800)",
+                "width": 1
+              },
+              "grid": {
+                "type": "esriSLS",
+                "style": "esriSLSDash",
+                "color": "var(--light-300)",
+                "width": 0
+              }
+            }
+          ],
+          "background": "var(--white)",
+          "title": {
+            "type": "chartText",
+            "visible": true,
+            "content": {
+              "type": "esriTS",
+              "color": "var(--black)",
+              "font": {
+                "family": "Avenir Next",
+                "size": 15,
+                "style": "normal",
+                "weight": "normal",
+                "decoration": "none"
+              },
+              "horizontalAlignment": "center",
+              "text": "US Wind Project Count by Owner "
+            }
+          },
+          "footer": {
+            "type": "chartText",
+            "visible": true,
+            "content": {
+              "type": "esriTS",
+              "color": "var(--dark-800)",
+              "font": {
+                "family": "Avenir Next",
+                "size": 14,
+                "style": "normal",
+                "weight": "normal",
+                "decoration": "none"
+              },
+              "horizontalAlignment": "center",
+              "text": ""
+            }
+          },
+          "legend": {
+            "type": "chartLegend",
+            "visible": false,
+            "title": {
+              "type": "chartText",
+              "visible": true,
+              "content": {
+                "type": "esriTS",
+                "color": "var(--dark-800)",
+                "font": {
+                  "family": "Avenir Next",
+                  "size": 20,
+                  "style": "normal",
+                  "weight": "normal",
+                  "decoration": "none"
+                },
+                "horizontalAlignment": "center",
+                "text": ""
+              }
+            },
+            "body": {
+              "type": "esriTS",
+              "color": "var(--dark-800)",
+              "font": {
+                "family": "Avenir Next",
+                "size": 14,
+                "style": "normal",
+                "weight": "normal",
+                "decoration": "none"
+              },
+              "horizontalAlignment": "center",
+              "text": ""
+            },
+            "position": "right"
+          }
+        }
+      },
+      "id": "widget_18",
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_1-1900892d1d9-layer-29-19027239c5f-layer-32",
+          "mainDataSourceId": "dataSource_1-1900892d1d9-layer-29-19027239c5f-layer-32",
+          "rootDataSourceId": "dataSource_1",
+          "fields": [
+            "owner1",
+            "OBJECTID"
+          ]
+        }
+      ],
+      "outputDataSources": [
+        "widget_18_ouput"
+      ]
+    },
+    "widget_19": {
+      "uri": "widgets/common/text/",
+      "version": "1.15.0",
+      "label": "Text",
+      "config": {
+        "text": "<p><span style=\"font-size: 30px;\">ResourceProfit by TurbineHub</span></p>",
+        "placeholder": "Double click to edit text",
+        "style": {
+          "verticalAlign": "start",
+          "wrap": true
+        }
+      },
+      "id": "widget_19"
+    },
+    "widget_20": {
+      "uri": "widgets/layout/grid/",
+      "version": "1.15.0",
+      "label": "Grid",
+      "config": {},
+      "id": "widget_20",
+      "layouts": {
+        "DEFAULT": {
+          "LARGE": "layout_7"
+        }
+      }
+    },
+    "widget_21": {
+      "uri": "widgets/common/filter/",
+      "version": "1.15.0",
+      "label": "Filter",
+      "config": {
+        "groupByLayer": false,
+        "logicalOperator": "AND",
+        "custom": false,
+        "resetAll": true,
+        "turnOffAll": false,
+        "arrangeType": "BLOCK",
+        "triggerType": "TOGGLE",
+        "omitInternalStyle": false,
+        "filterItems": [
+          {
+            "isGroup": false,
+            "icon": {
+              "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 16 16\"><path fill=\"#000\" fill-rule=\"evenodd\" d=\"M15 1.53V0H1v1.53h.07l5.374 5.288v6.121l2.26 2.224a.5.5 0 0 0 .852-.356V6.825l5.382-5.295zM2 1h12v.049L8.556 6.406l-.001 7.207-1.111-1.093V6.399L2 1.042z\" clip-rule=\"evenodd\"></path></svg>",
+              "properties": {
+                "color": "",
+                "filename": "Filter",
+                "originalName": "filter.svg",
+                "inlineSvg": true,
+                "size": 14
+              }
+            },
+            "name": "TurbineHub Master Renewable Project Layer",
+            "useDataSources": [
+              {
+                "dataSourceId": "dataSource_1-1900892d1d9-layer-29-190198c567d-layer-31",
+                "mainDataSourceId": "dataSource_1-1900892d1d9-layer-29-190198c567d-layer-31",
+                "rootDataSourceId": "dataSource_1",
+                "fields": [
+                  "phasetype",
+                  "phasename",
+                  "state1",
+                  "county1",
+                  "developer1",
+                  "owner1",
+                  "offtaketype1",
+                  "powerpurchaser1",
+                  "powerpurchasertype1"
+                ]
+              }
+            ],
+            "autoApplyWhenWidgetOpen": false,
+            "collapseFilterExprs": true,
+            "sqlExprObj": {
+              "logicalOperator": "AND",
+              "parts": [
+                {
+                  "type": "SINGLE",
+                  "jimuFieldName": "phasetype",
+                  "operator": "STRING_OPERATOR_IS",
+                  "valueOptions": {
+                    "isValid": true,
+                    "sourceType": "UNIQUE",
+                    "inputEditor": "SIMPLE_SELECT",
+                    "value": null
+                  },
+                  "displayType": "USE_ASK_FOR_VALUE",
+                  "askForValueOptions": {
+                    "label": null,
+                    "display": "BLOCK",
+                    "hint": "",
+                    "cascade": "ALL"
+                  },
+                  "displayLabel": null,
+                  "caseSensitive": false
+                },
+                {
+                  "type": "SINGLE",
+                  "jimuFieldName": "phasename",
+                  "operator": "STRING_OPERATOR_IS",
+                  "valueOptions": {
+                    "isValid": true,
+                    "sourceType": "UNIQUE",
+                    "inputEditor": "SIMPLE_SELECT",
+                    "value": null
+                  },
+                  "displayType": "USE_ASK_FOR_VALUE",
+                  "askForValueOptions": {
+                    "label": null,
+                    "display": "BLOCK",
+                    "hint": "",
+                    "cascade": "ALL"
+                  },
+                  "displayLabel": null,
+                  "caseSensitive": false
+                },
+                {
+                  "type": "SINGLE",
+                  "jimuFieldName": "state1",
+                  "operator": "STRING_OPERATOR_IS",
+                  "valueOptions": {
+                    "isValid": true,
+                    "sourceType": "UNIQUE",
+                    "inputEditor": "SIMPLE_SELECT",
+                    "value": null
+                  },
+                  "displayType": "USE_ASK_FOR_VALUE",
+                  "askForValueOptions": {
+                    "label": null,
+                    "display": "BLOCK",
+                    "hint": "",
+                    "cascade": "ALL"
+                  },
+                  "displayLabel": null,
+                  "caseSensitive": false
+                },
+                {
+                  "type": "SINGLE",
+                  "jimuFieldName": "county1",
+                  "operator": "STRING_OPERATOR_IS",
+                  "valueOptions": {
+                    "isValid": true,
+                    "sourceType": "UNIQUE",
+                    "inputEditor": "SIMPLE_SELECT",
+                    "value": null
+                  },
+                  "displayType": "USE_ASK_FOR_VALUE",
+                  "askForValueOptions": {
+                    "label": null,
+                    "display": "BLOCK",
+                    "hint": "",
+                    "cascade": "ALL"
+                  },
+                  "displayLabel": null,
+                  "caseSensitive": false
+                },
+                {
+                  "type": "SINGLE",
+                  "jimuFieldName": "developer1",
+                  "operator": "STRING_OPERATOR_IS",
+                  "valueOptions": {
+                    "isValid": true,
+                    "sourceType": "UNIQUE",
+                    "inputEditor": "SIMPLE_SELECT",
+                    "value": null
+                  },
+                  "displayType": "USE_ASK_FOR_VALUE",
+                  "askForValueOptions": {
+                    "label": null,
+                    "display": "BLOCK",
+                    "hint": "",
+                    "cascade": "ALL"
+                  },
+                  "displayLabel": null,
+                  "caseSensitive": false
+                },
+                {
+                  "type": "SINGLE",
+                  "jimuFieldName": "owner1",
+                  "operator": "STRING_OPERATOR_IS",
+                  "valueOptions": {
+                    "isValid": true,
+                    "sourceType": "UNIQUE",
+                    "inputEditor": "SIMPLE_SELECT",
+                    "value": null
+                  },
+                  "displayType": "USE_ASK_FOR_VALUE",
+                  "askForValueOptions": {
+                    "label": null,
+                    "display": "BLOCK",
+                    "hint": "",
+                    "cascade": "ALL"
+                  },
+                  "displayLabel": null,
+                  "caseSensitive": false
+                },
+                {
+                  "type": "SINGLE",
+                  "jimuFieldName": "offtaketype1",
+                  "operator": "STRING_OPERATOR_IS",
+                  "valueOptions": {
+                    "isValid": true,
+                    "sourceType": "UNIQUE",
+                    "inputEditor": "SIMPLE_SELECT",
+                    "value": null
+                  },
+                  "displayType": "USE_ASK_FOR_VALUE",
+                  "askForValueOptions": {
+                    "label": null,
+                    "display": "BLOCK",
+                    "hint": "",
+                    "cascade": "ALL"
+                  },
+                  "displayLabel": null,
+                  "caseSensitive": false
+                },
+                {
+                  "type": "SINGLE",
+                  "jimuFieldName": "powerpurchaser1",
+                  "operator": "STRING_OPERATOR_IS",
+                  "valueOptions": {
+                    "isValid": true,
+                    "sourceType": "UNIQUE",
+                    "inputEditor": "SIMPLE_SELECT",
+                    "value": null
+                  },
+                  "displayType": "USE_ASK_FOR_VALUE",
+                  "askForValueOptions": {
+                    "label": null,
+                    "display": "BLOCK",
+                    "hint": "",
+                    "cascade": "ALL"
+                  },
+                  "displayLabel": null,
+                  "caseSensitive": false
+                },
+                {
+                  "type": "SINGLE",
+                  "jimuFieldName": "powerpurchasertype1",
+                  "operator": "STRING_OPERATOR_IS",
+                  "valueOptions": {
+                    "isValid": true,
+                    "sourceType": "UNIQUE",
+                    "inputEditor": "SIMPLE_SELECT",
+                    "value": null
+                  },
+                  "displayType": "USE_ASK_FOR_VALUE",
+                  "askForValueOptions": {
+                    "label": null,
+                    "display": "BLOCK",
+                    "hint": "",
+                    "cascade": "NONE"
+                  },
+                  "displayLabel": null,
+                  "caseSensitive": false
+                }
+              ],
+              "sql": "",
+              "displaySQL": "(Phase Type = ?) and (Phase Name = ?) and (State (1) = ?) and (County (1) = ?) and (Developer (1) = ?) and (Owner (1) = ?) and (Offtake Type (1) = ?) and (Power Purchaser (1) = ?) and (Power Purchaser Type (1) = ?)"
+            }
+          },
+          {
+            "isGroup": false,
+            "icon": {
+              "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 16 16\"><path fill=\"#000\" fill-rule=\"evenodd\" d=\"M15 1.53V0H1v1.53h.07l5.374 5.288v6.121l2.26 2.224a.5.5 0 0 0 .852-.356V6.825l5.382-5.295zM2 1h12v.049L8.556 6.406l-.001 7.207-1.111-1.093V6.399L2 1.042z\" clip-rule=\"evenodd\"></path></svg>",
+              "properties": {
+                "color": "",
+                "filename": "Filter",
+                "originalName": "filter.svg",
+                "inlineSvg": true,
+                "size": 14
+              }
+            },
+            "name": "US Solar Projects June 2024",
+            "useDataSources": [
+              {
+                "dataSourceId": "dataSource_1-1900892d1d9-layer-29-19027bc5267-layer-32",
+                "mainDataSourceId": "dataSource_1-1900892d1d9-layer-29-19027bc5267-layer-32",
+                "rootDataSourceId": "dataSource_1",
+                "fields": [
+                  "phasename",
+                  "states",
+                  "counties",
+                  "developer1",
+                  "owner1",
+                  "offtaketype1",
+                  "powerpurchaser1",
+                  "powerpurchasertype1"
+                ]
+              }
+            ],
+            "autoApplyWhenWidgetOpen": false,
+            "collapseFilterExprs": true,
+            "sqlExprObj": {
+              "logicalOperator": "AND",
+              "parts": [
+                {
+                  "type": "SINGLE",
+                  "jimuFieldName": "phasename",
+                  "operator": "STRING_OPERATOR_IS",
+                  "valueOptions": {
+                    "isValid": true,
+                    "sourceType": "UNIQUE",
+                    "inputEditor": "SIMPLE_SELECT",
+                    "value": null
+                  },
+                  "displayType": "USE_ASK_FOR_VALUE",
+                  "askForValueOptions": {
+                    "label": null,
+                    "display": "BLOCK",
+                    "hint": "",
+                    "cascade": "ALL"
+                  },
+                  "displayLabel": null,
+                  "caseSensitive": false
+                },
+                {
+                  "type": "SINGLE",
+                  "jimuFieldName": "states",
+                  "operator": "STRING_OPERATOR_IS",
+                  "valueOptions": {
+                    "isValid": true,
+                    "sourceType": "UNIQUE",
+                    "inputEditor": "SIMPLE_SELECT",
+                    "value": null
+                  },
+                  "displayType": "USE_ASK_FOR_VALUE",
+                  "askForValueOptions": {
+                    "label": null,
+                    "display": "BLOCK",
+                    "hint": "",
+                    "cascade": "ALL"
+                  },
+                  "displayLabel": null,
+                  "caseSensitive": false
+                },
+                {
+                  "type": "SINGLE",
+                  "jimuFieldName": "counties",
+                  "operator": "STRING_OPERATOR_IS",
+                  "valueOptions": {
+                    "isValid": true,
+                    "sourceType": "UNIQUE",
+                    "inputEditor": "SIMPLE_SELECT",
+                    "value": null
+                  },
+                  "displayType": "USE_ASK_FOR_VALUE",
+                  "askForValueOptions": {
+                    "label": null,
+                    "display": "BLOCK",
+                    "hint": "",
+                    "cascade": "ALL"
+                  },
+                  "displayLabel": null,
+                  "caseSensitive": false
+                },
+                {
+                  "type": "SINGLE",
+                  "jimuFieldName": "developer1",
+                  "operator": "STRING_OPERATOR_IS",
+                  "valueOptions": {
+                    "isValid": true,
+                    "sourceType": "UNIQUE",
+                    "inputEditor": "SIMPLE_SELECT",
+                    "value": null
+                  },
+                  "displayType": "USE_ASK_FOR_VALUE",
+                  "askForValueOptions": {
+                    "label": null,
+                    "display": "BLOCK",
+                    "hint": "",
+                    "cascade": "ALL"
+                  },
+                  "displayLabel": null,
+                  "caseSensitive": false
+                },
+                {
+                  "type": "SINGLE",
+                  "jimuFieldName": "owner1",
+                  "operator": "STRING_OPERATOR_IS",
+                  "valueOptions": {
+                    "isValid": true,
+                    "sourceType": "UNIQUE",
+                    "inputEditor": "SIMPLE_SELECT",
+                    "value": null
+                  },
+                  "displayType": "USE_ASK_FOR_VALUE",
+                  "askForValueOptions": {
+                    "label": null,
+                    "display": "BLOCK",
+                    "hint": "",
+                    "cascade": "ALL"
+                  },
+                  "displayLabel": null,
+                  "caseSensitive": false
+                },
+                {
+                  "type": "SINGLE",
+                  "jimuFieldName": "offtaketype1",
+                  "operator": "STRING_OPERATOR_IS",
+                  "valueOptions": {
+                    "isValid": true,
+                    "sourceType": "UNIQUE",
+                    "inputEditor": "SIMPLE_SELECT",
+                    "value": null
+                  },
+                  "displayType": "USE_ASK_FOR_VALUE",
+                  "askForValueOptions": {
+                    "label": null,
+                    "display": "BLOCK",
+                    "hint": "",
+                    "cascade": "ALL"
+                  },
+                  "displayLabel": null,
+                  "caseSensitive": false
+                },
+                {
+                  "type": "SINGLE",
+                  "jimuFieldName": "powerpurchaser1",
+                  "operator": "STRING_OPERATOR_IS",
+                  "valueOptions": {
+                    "isValid": true,
+                    "sourceType": "UNIQUE",
+                    "inputEditor": "SIMPLE_SELECT",
+                    "value": null
+                  },
+                  "displayType": "USE_ASK_FOR_VALUE",
+                  "askForValueOptions": {
+                    "label": null,
+                    "display": "BLOCK",
+                    "hint": "",
+                    "cascade": "ALL"
+                  },
+                  "displayLabel": null,
+                  "caseSensitive": false
+                },
+                {
+                  "type": "SINGLE",
+                  "jimuFieldName": "powerpurchasertype1",
+                  "operator": "STRING_OPERATOR_IS",
+                  "valueOptions": {
+                    "isValid": true,
+                    "sourceType": "UNIQUE",
+                    "inputEditor": "SIMPLE_SELECT",
+                    "value": null
+                  },
+                  "displayType": "USE_ASK_FOR_VALUE",
+                  "askForValueOptions": {
+                    "label": null,
+                    "display": "BLOCK",
+                    "hint": "",
+                    "cascade": "ALL"
+                  },
+                  "displayLabel": null,
+                  "caseSensitive": false
+                }
+              ],
+              "sql": "",
+              "displaySQL": "(Phase Name = ?) and (States = ?) and (Counties = ?) and (Developer (1) = ?) and (Owner (1) = ?) and (Offtake Type (1) = ?) and (Power Purchaser (1) = ?) and (Power Purchaser Type (1) = ?)"
+            }
+          },
+          {
+            "isGroup": false,
+            "icon": {
+              "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 16 16\"><path fill=\"#000\" fill-rule=\"evenodd\" d=\"M15 1.53V0H1v1.53h.07l5.374 5.288v6.121l2.26 2.224a.5.5 0 0 0 .852-.356V6.825l5.382-5.295zM2 1h12v.049L8.556 6.406l-.001 7.207-1.111-1.093V6.399L2 1.042z\" clip-rule=\"evenodd\"></path></svg>",
+              "properties": {
+                "color": "",
+                "filename": "Filter",
+                "originalName": "filter.svg",
+                "inlineSvg": true,
+                "size": 14
+              }
+            },
+            "name": "US Onshore Wind Projects June 2024",
+            "useDataSources": [
+              {
+                "dataSourceId": "dataSource_1-1900892d1d9-layer-29-19027239c5f-layer-32",
+                "mainDataSourceId": "dataSource_1-1900892d1d9-layer-29-19027239c5f-layer-32",
+                "rootDataSourceId": "dataSource_1",
+                "fields": [
+                  "phasename",
+                  "states",
+                  "county1",
+                  "developer1",
+                  "owner1",
+                  "offtaketype1",
+                  "powerpurchaser1company",
+                  "powerpurchasertype1"
+                ]
+              }
+            ],
+            "autoApplyWhenWidgetOpen": false,
+            "collapseFilterExprs": true,
+            "sqlExprObj": {
+              "logicalOperator": "AND",
+              "parts": [
+                {
+                  "type": "SINGLE",
+                  "jimuFieldName": "phasename",
+                  "operator": "STRING_OPERATOR_IS",
+                  "valueOptions": {
+                    "isValid": true,
+                    "sourceType": "UNIQUE",
+                    "inputEditor": "SIMPLE_SELECT",
+                    "value": null
+                  },
+                  "displayType": "USE_ASK_FOR_VALUE",
+                  "askForValueOptions": {
+                    "label": null,
+                    "display": "BLOCK",
+                    "hint": "",
+                    "cascade": "ALL"
+                  },
+                  "displayLabel": null,
+                  "caseSensitive": false
+                },
+                {
+                  "type": "SINGLE",
+                  "jimuFieldName": "states",
+                  "operator": "STRING_OPERATOR_IS",
+                  "valueOptions": {
+                    "isValid": true,
+                    "sourceType": "UNIQUE",
+                    "inputEditor": "SIMPLE_SELECT",
+                    "value": null
+                  },
+                  "displayType": "USE_ASK_FOR_VALUE",
+                  "askForValueOptions": {
+                    "label": null,
+                    "display": "BLOCK",
+                    "hint": "",
+                    "cascade": "ALL"
+                  },
+                  "displayLabel": null,
+                  "caseSensitive": false
+                },
+                {
+                  "type": "SINGLE",
+                  "jimuFieldName": "county1",
+                  "operator": "STRING_OPERATOR_IS",
+                  "valueOptions": {
+                    "isValid": true,
+                    "sourceType": "UNIQUE",
+                    "inputEditor": "SIMPLE_SELECT",
+                    "value": null
+                  },
+                  "displayType": "USE_ASK_FOR_VALUE",
+                  "askForValueOptions": {
+                    "label": null,
+                    "display": "BLOCK",
+                    "hint": "",
+                    "cascade": "ALL"
+                  },
+                  "displayLabel": null,
+                  "caseSensitive": false
+                },
+                {
+                  "type": "SINGLE",
+                  "jimuFieldName": "developer1",
+                  "operator": "STRING_OPERATOR_IS",
+                  "valueOptions": {
+                    "isValid": true,
+                    "sourceType": "UNIQUE",
+                    "inputEditor": "SIMPLE_SELECT",
+                    "value": null
+                  },
+                  "displayType": "USE_ASK_FOR_VALUE",
+                  "askForValueOptions": {
+                    "label": null,
+                    "display": "BLOCK",
+                    "hint": "",
+                    "cascade": "ALL"
+                  },
+                  "displayLabel": null,
+                  "caseSensitive": false
+                },
+                {
+                  "type": "SINGLE",
+                  "jimuFieldName": "owner1",
+                  "operator": "STRING_OPERATOR_IS",
+                  "valueOptions": {
+                    "isValid": true,
+                    "sourceType": "UNIQUE",
+                    "inputEditor": "SIMPLE_SELECT",
+                    "value": null
+                  },
+                  "displayType": "USE_ASK_FOR_VALUE",
+                  "askForValueOptions": {
+                    "label": null,
+                    "display": "BLOCK",
+                    "hint": "",
+                    "cascade": "ALL"
+                  },
+                  "displayLabel": null,
+                  "caseSensitive": false
+                },
+                {
+                  "type": "SINGLE",
+                  "jimuFieldName": "offtaketype1",
+                  "operator": "STRING_OPERATOR_IS",
+                  "valueOptions": {
+                    "isValid": true,
+                    "sourceType": "UNIQUE",
+                    "inputEditor": "SIMPLE_SELECT",
+                    "value": null
+                  },
+                  "displayType": "USE_ASK_FOR_VALUE",
+                  "askForValueOptions": {
+                    "label": null,
+                    "display": "BLOCK",
+                    "hint": "",
+                    "cascade": "ALL"
+                  },
+                  "displayLabel": null,
+                  "caseSensitive": false
+                },
+                {
+                  "type": "SINGLE",
+                  "jimuFieldName": "powerpurchaser1company",
+                  "operator": "STRING_OPERATOR_IS",
+                  "valueOptions": {
+                    "isValid": true,
+                    "sourceType": "UNIQUE",
+                    "inputEditor": "SIMPLE_SELECT",
+                    "value": null
+                  },
+                  "displayType": "USE_ASK_FOR_VALUE",
+                  "askForValueOptions": {
+                    "label": null,
+                    "display": "BLOCK",
+                    "hint": "",
+                    "cascade": "ALL"
+                  },
+                  "displayLabel": null,
+                  "caseSensitive": false
+                },
+                {
+                  "type": "SINGLE",
+                  "jimuFieldName": "powerpurchasertype1",
+                  "operator": "STRING_OPERATOR_IS",
+                  "valueOptions": {
+                    "isValid": true,
+                    "sourceType": "UNIQUE",
+                    "inputEditor": "SIMPLE_SELECT",
+                    "value": null
+                  },
+                  "displayType": "USE_ASK_FOR_VALUE",
+                  "askForValueOptions": {
+                    "label": null,
+                    "display": "BLOCK",
+                    "hint": "",
+                    "cascade": "ALL"
+                  },
+                  "displayLabel": null,
+                  "caseSensitive": false
+                }
+              ],
+              "sql": "",
+              "displaySQL": "(Phase Name = ?) and (States = ?) and (County (1) = ?) and (Developer (1) = ?) and (Owner (1) = ?) and (Offtake Type (1) = ?) and (Power Purchaser (1) Company = ?) and (Power Purchaser Type (1) = ?)"
+            }
+          }
+        ]
+      },
+      "id": "widget_21",
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_1-1900892d1d9-layer-29-190198c567d-layer-31",
+          "mainDataSourceId": "dataSource_1-1900892d1d9-layer-29-190198c567d-layer-31",
+          "rootDataSourceId": "dataSource_1",
+          "fields": [
+            "county1",
+            "developer1",
+            "offtaketype1",
+            "owner1",
+            "phasename",
+            "phasetype",
+            "powerpurchaser1",
+            "powerpurchasertype1",
+            "state1"
+          ]
+        },
+        {
+          "dataSourceId": "dataSource_1-1900892d1d9-layer-29-19027bc5267-layer-32",
+          "mainDataSourceId": "dataSource_1-1900892d1d9-layer-29-19027bc5267-layer-32",
+          "rootDataSourceId": "dataSource_1",
+          "fields": [
+            "counties",
+            "developer1",
+            "offtaketype1",
+            "owner1",
+            "phasename",
+            "powerpurchaser1",
+            "powerpurchasertype1",
+            "states"
+          ]
+        },
+        {
+          "dataSourceId": "dataSource_1-1900892d1d9-layer-29-19027239c5f-layer-32",
+          "mainDataSourceId": "dataSource_1-1900892d1d9-layer-29-19027239c5f-layer-32",
+          "rootDataSourceId": "dataSource_1",
+          "fields": [
+            "county1",
+            "developer1",
+            "offtaketype1",
+            "owner1",
+            "phasename",
+            "powerpurchaser1company",
+            "powerpurchasertype1",
+            "states"
+          ]
+        }
+      ]
+    },
+    "widget_22": {
+      "uri": "widgets/arcgis/query/",
+      "version": "1.15.0",
+      "label": "Query",
+      "config": {
+        "queryItems": [
+          {
+            "configId": "022883939902799577",
+            "name": "TurbineHub Master Renewable Project Layer",
+            "useDataSource": {
+              "dataSourceId": "dataSource_1-1900892d1d9-layer-29-190198c567d-layer-31",
+              "mainDataSourceId": "dataSource_1-1900892d1d9-layer-29-190198c567d-layer-31",
+              "rootDataSourceId": "dataSource_1",
+              "fields": [
+                "phasetype",
+                "phasename",
+                "state1",
+                "county1",
+                "developer1",
+                "owner1",
+                "offtaketype1",
+                "powerpurchaser1",
+                "pparate1"
+              ]
+            },
+            "outputDataSourceId": "widget_22_output_022883939902799577",
+            "spatialRelationUseDataSources": [],
+            "sqlExprObj": {
+              "logicalOperator": "AND",
+              "parts": [
+                {
+                  "type": "SINGLE",
+                  "jimuFieldName": "phasetype",
+                  "operator": "STRING_OPERATOR_IS",
+                  "valueOptions": {
+                    "isValid": true,
+                    "sourceType": "UNIQUE",
+                    "inputEditor": "SIMPLE_SELECT",
+                    "value": null
+                  },
+                  "displayType": "USE_ASK_FOR_VALUE",
+                  "askForValueOptions": {
+                    "label": null,
+                    "display": "BLOCK",
+                    "hint": "",
+                    "cascade": "ALL"
+                  },
+                  "displayLabel": null,
+                  "caseSensitive": false
+                },
+                {
+                  "type": "SINGLE",
+                  "jimuFieldName": "phasename",
+                  "operator": "STRING_OPERATOR_IS",
+                  "valueOptions": {
+                    "isValid": true,
+                    "sourceType": "UNIQUE",
+                    "inputEditor": "SIMPLE_SELECT",
+                    "value": null
+                  },
+                  "displayType": "USE_ASK_FOR_VALUE",
+                  "askForValueOptions": {
+                    "label": null,
+                    "display": "BLOCK",
+                    "hint": "",
+                    "cascade": "ALL"
+                  },
+                  "displayLabel": null,
+                  "caseSensitive": false
+                },
+                {
+                  "type": "SINGLE",
+                  "jimuFieldName": "state1",
+                  "operator": "STRING_OPERATOR_IS",
+                  "valueOptions": {
+                    "isValid": true,
+                    "sourceType": "UNIQUE",
+                    "inputEditor": "SIMPLE_SELECT",
+                    "value": null
+                  },
+                  "displayType": "USE_ASK_FOR_VALUE",
+                  "askForValueOptions": {
+                    "label": null,
+                    "display": "BLOCK",
+                    "hint": "",
+                    "cascade": "ALL"
+                  },
+                  "displayLabel": null,
+                  "caseSensitive": false
+                },
+                {
+                  "type": "SINGLE",
+                  "jimuFieldName": "county1",
+                  "operator": "STRING_OPERATOR_IS",
+                  "valueOptions": {
+                    "isValid": true,
+                    "sourceType": "UNIQUE",
+                    "inputEditor": "SIMPLE_SELECT",
+                    "value": null
+                  },
+                  "displayType": "USE_ASK_FOR_VALUE",
+                  "askForValueOptions": {
+                    "label": null,
+                    "display": "BLOCK",
+                    "hint": "",
+                    "cascade": "ALL"
+                  },
+                  "displayLabel": null,
+                  "caseSensitive": false
+                },
+                {
+                  "type": "SINGLE",
+                  "jimuFieldName": "developer1",
+                  "operator": "STRING_OPERATOR_IS",
+                  "valueOptions": {
+                    "isValid": true,
+                    "sourceType": "UNIQUE",
+                    "inputEditor": "SIMPLE_SELECT",
+                    "value": null
+                  },
+                  "displayType": "USE_ASK_FOR_VALUE",
+                  "askForValueOptions": {
+                    "label": null,
+                    "display": "BLOCK",
+                    "hint": "",
+                    "cascade": "ALL"
+                  },
+                  "displayLabel": null,
+                  "caseSensitive": false
+                },
+                {
+                  "type": "SINGLE",
+                  "jimuFieldName": "owner1",
+                  "operator": "STRING_OPERATOR_IS",
+                  "valueOptions": {
+                    "isValid": true,
+                    "sourceType": "UNIQUE",
+                    "inputEditor": "SIMPLE_SELECT",
+                    "value": null
+                  },
+                  "displayType": "USE_ASK_FOR_VALUE",
+                  "askForValueOptions": {
+                    "label": null,
+                    "display": "BLOCK",
+                    "hint": "",
+                    "cascade": "ALL"
+                  },
+                  "displayLabel": null,
+                  "caseSensitive": false
+                },
+                {
+                  "type": "SINGLE",
+                  "jimuFieldName": "offtaketype1",
+                  "operator": "STRING_OPERATOR_IS",
+                  "valueOptions": {
+                    "isValid": true,
+                    "sourceType": "UNIQUE",
+                    "inputEditor": "SIMPLE_SELECT",
+                    "value": null
+                  },
+                  "displayType": "USE_ASK_FOR_VALUE",
+                  "askForValueOptions": {
+                    "label": null,
+                    "display": "BLOCK",
+                    "hint": "",
+                    "cascade": "ALL"
+                  },
+                  "displayLabel": null,
+                  "caseSensitive": false
+                },
+                {
+                  "type": "SINGLE",
+                  "jimuFieldName": "powerpurchaser1",
+                  "operator": "STRING_OPERATOR_IS",
+                  "valueOptions": {
+                    "isValid": true,
+                    "sourceType": "UNIQUE",
+                    "inputEditor": "SIMPLE_SELECT",
+                    "value": null
+                  },
+                  "displayType": "USE_ASK_FOR_VALUE",
+                  "askForValueOptions": {
+                    "label": null,
+                    "display": "BLOCK",
+                    "hint": "",
+                    "cascade": "ALL"
+                  },
+                  "displayLabel": null,
+                  "caseSensitive": false
+                },
+                {
+                  "type": "SINGLE",
+                  "jimuFieldName": "pparate1",
+                  "operator": "NUMBER_OPERATOR_IS",
+                  "valueOptions": {
+                    "isValid": true,
+                    "sourceType": "UNIQUE",
+                    "inputEditor": "SIMPLE_SELECT",
+                    "value": null
+                  },
+                  "displayType": "USE_ASK_FOR_VALUE",
+                  "askForValueOptions": {
+                    "label": null,
+                    "display": "BLOCK",
+                    "hint": "",
+                    "cascade": "ALL"
+                  },
+                  "displayLabel": null,
+                  "caseSensitive": false
+                }
+              ],
+              "sql": "",
+              "displaySQL": "(Phase Type = ?) and (Phase Name = ?) and (State (1) = ?) and (County (1) = ?) and (Developer (1) = ?) and (Owner (1) = ?) and (Offtake Type (1) = ?) and (Power Purchaser (1) = ?) and (PPA Rate (1) = ?)"
+            }
+          },
+          {
+            "configId": "07274889165184217",
+            "name": "US Solar Projects June 2024",
+            "useDataSource": {
+              "dataSourceId": "dataSource_1-1900892d1d9-layer-29-19027bc5267-layer-32",
+              "mainDataSourceId": "dataSource_1-1900892d1d9-layer-29-19027bc5267-layer-32",
+              "rootDataSourceId": "dataSource_1",
+              "fields": [
+                "states",
+                "counties",
+                "developer1",
+                "owner1",
+                "offtaketype1",
+                "powerpurchaser1",
+                "pparates"
+              ]
+            },
+            "outputDataSourceId": "widget_22_output_07274889165184217",
+            "spatialRelationUseDataSources": [],
+            "sqlExprObj": {
+              "logicalOperator": "AND",
+              "parts": [
+                {
+                  "type": "SINGLE",
+                  "jimuFieldName": "states",
+                  "operator": "STRING_OPERATOR_IS",
+                  "valueOptions": {
+                    "isValid": true,
+                    "sourceType": "UNIQUE",
+                    "inputEditor": "SIMPLE_SELECT",
+                    "value": null
+                  },
+                  "displayType": "USE_ASK_FOR_VALUE",
+                  "askForValueOptions": {
+                    "label": null,
+                    "display": "BLOCK",
+                    "hint": "",
+                    "cascade": "ALL"
+                  },
+                  "displayLabel": null,
+                  "caseSensitive": false
+                },
+                {
+                  "type": "SINGLE",
+                  "jimuFieldName": "counties",
+                  "operator": "STRING_OPERATOR_IS",
+                  "valueOptions": {
+                    "isValid": true,
+                    "sourceType": "UNIQUE",
+                    "inputEditor": "SIMPLE_SELECT",
+                    "value": null
+                  },
+                  "displayType": "USE_ASK_FOR_VALUE",
+                  "askForValueOptions": {
+                    "label": null,
+                    "display": "BLOCK",
+                    "hint": "",
+                    "cascade": "ALL"
+                  },
+                  "displayLabel": null,
+                  "caseSensitive": false
+                },
+                {
+                  "type": "SINGLE",
+                  "jimuFieldName": "developer1",
+                  "operator": "STRING_OPERATOR_IS",
+                  "valueOptions": {
+                    "isValid": true,
+                    "sourceType": "UNIQUE",
+                    "inputEditor": "SIMPLE_SELECT",
+                    "value": null
+                  },
+                  "displayType": "USE_ASK_FOR_VALUE",
+                  "askForValueOptions": {
+                    "label": null,
+                    "display": "BLOCK",
+                    "hint": "",
+                    "cascade": "ALL"
+                  },
+                  "displayLabel": null,
+                  "caseSensitive": false
+                },
+                {
+                  "type": "SINGLE",
+                  "jimuFieldName": "owner1",
+                  "operator": "STRING_OPERATOR_IS",
+                  "valueOptions": {
+                    "isValid": true,
+                    "sourceType": "UNIQUE",
+                    "inputEditor": "SIMPLE_SELECT",
+                    "value": null
+                  },
+                  "displayType": "USE_ASK_FOR_VALUE",
+                  "askForValueOptions": {
+                    "label": null,
+                    "display": "BLOCK",
+                    "hint": "",
+                    "cascade": "ALL"
+                  },
+                  "displayLabel": null,
+                  "caseSensitive": false
+                },
+                {
+                  "type": "SINGLE",
+                  "jimuFieldName": "offtaketype1",
+                  "operator": "STRING_OPERATOR_IS",
+                  "valueOptions": {
+                    "isValid": true,
+                    "sourceType": "UNIQUE",
+                    "inputEditor": "SIMPLE_SELECT",
+                    "value": null
+                  },
+                  "displayType": "USE_ASK_FOR_VALUE",
+                  "askForValueOptions": {
+                    "label": null,
+                    "display": "BLOCK",
+                    "hint": "",
+                    "cascade": "ALL"
+                  },
+                  "displayLabel": null,
+                  "caseSensitive": false
+                },
+                {
+                  "type": "SINGLE",
+                  "jimuFieldName": "powerpurchaser1",
+                  "operator": "STRING_OPERATOR_IS",
+                  "valueOptions": {
+                    "isValid": true,
+                    "sourceType": "UNIQUE",
+                    "inputEditor": "SIMPLE_SELECT",
+                    "value": null
+                  },
+                  "displayType": "USE_ASK_FOR_VALUE",
+                  "askForValueOptions": {
+                    "label": null,
+                    "display": "BLOCK",
+                    "hint": "",
+                    "cascade": "ALL"
+                  },
+                  "displayLabel": null,
+                  "caseSensitive": false
+                },
+                {
+                  "type": "SINGLE",
+                  "jimuFieldName": "pparates",
+                  "operator": "NUMBER_OPERATOR_IS",
+                  "valueOptions": {
+                    "isValid": true,
+                    "sourceType": "UNIQUE",
+                    "inputEditor": "SIMPLE_SELECT",
+                    "value": null
+                  },
+                  "displayType": "USE_ASK_FOR_VALUE",
+                  "askForValueOptions": {
+                    "label": null,
+                    "display": "BLOCK",
+                    "hint": "",
+                    "cascade": "ALL"
+                  },
+                  "displayLabel": null,
+                  "caseSensitive": false
+                }
+              ],
+              "sql": "",
+              "displaySQL": "(States = ?) and (Counties = ?) and (Developer (1) = ?) and (Owner (1) = ?) and (Offtake Type (1) = ?) and (Power Purchaser (1) = ?) and (PPA Rates = ?)"
+            }
+          },
+          {
+            "configId": "15500933310413711",
+            "name": "US Onshore Wind Projects June 2024",
+            "useDataSource": {
+              "dataSourceId": "dataSource_1-1900892d1d9-layer-29-19027239c5f-layer-32",
+              "mainDataSourceId": "dataSource_1-1900892d1d9-layer-29-19027239c5f-layer-32",
+              "rootDataSourceId": "dataSource_1",
+              "fields": [
+                "phasename",
+                "states",
+                "county1",
+                "developer1",
+                "owner1",
+                "offtaketype1",
+                "powerpurchaser1company",
+                "powerpurchasertype1",
+                "pparate1"
+              ]
+            },
+            "outputDataSourceId": "widget_22_output_15500933310413711",
+            "spatialRelationUseDataSources": [],
+            "sqlExprObj": {
+              "logicalOperator": "AND",
+              "parts": [
+                {
+                  "type": "SINGLE",
+                  "jimuFieldName": "phasename",
+                  "operator": "STRING_OPERATOR_IS",
+                  "valueOptions": {
+                    "isValid": true,
+                    "sourceType": "UNIQUE",
+                    "inputEditor": "SIMPLE_SELECT",
+                    "value": null
+                  },
+                  "displayType": "USE_ASK_FOR_VALUE",
+                  "askForValueOptions": {
+                    "label": null,
+                    "display": "BLOCK",
+                    "hint": "",
+                    "cascade": "ALL"
+                  },
+                  "displayLabel": null,
+                  "caseSensitive": false
+                },
+                {
+                  "type": "SINGLE",
+                  "jimuFieldName": "states",
+                  "operator": "STRING_OPERATOR_IS",
+                  "valueOptions": {
+                    "isValid": true,
+                    "sourceType": "UNIQUE",
+                    "inputEditor": "SIMPLE_SELECT",
+                    "value": null
+                  },
+                  "displayType": "USE_ASK_FOR_VALUE",
+                  "askForValueOptions": {
+                    "label": null,
+                    "display": "BLOCK",
+                    "hint": "",
+                    "cascade": "ALL"
+                  },
+                  "displayLabel": null,
+                  "caseSensitive": false
+                },
+                {
+                  "type": "SINGLE",
+                  "jimuFieldName": "county1",
+                  "operator": "STRING_OPERATOR_IS",
+                  "valueOptions": {
+                    "isValid": true,
+                    "sourceType": "UNIQUE",
+                    "inputEditor": "SIMPLE_SELECT",
+                    "value": null
+                  },
+                  "displayType": "USE_ASK_FOR_VALUE",
+                  "askForValueOptions": {
+                    "label": null,
+                    "display": "BLOCK",
+                    "hint": "",
+                    "cascade": "ALL"
+                  },
+                  "displayLabel": null,
+                  "caseSensitive": false
+                },
+                {
+                  "type": "SINGLE",
+                  "jimuFieldName": "developer1",
+                  "operator": "STRING_OPERATOR_IS",
+                  "valueOptions": {
+                    "isValid": true,
+                    "sourceType": "UNIQUE",
+                    "inputEditor": "SIMPLE_SELECT",
+                    "value": null
+                  },
+                  "displayType": "USE_ASK_FOR_VALUE",
+                  "askForValueOptions": {
+                    "label": null,
+                    "display": "BLOCK",
+                    "hint": "",
+                    "cascade": "ALL"
+                  },
+                  "displayLabel": null,
+                  "caseSensitive": false
+                },
+                {
+                  "type": "SINGLE",
+                  "jimuFieldName": "owner1",
+                  "operator": "STRING_OPERATOR_IS",
+                  "valueOptions": {
+                    "isValid": true,
+                    "sourceType": "UNIQUE",
+                    "inputEditor": "SIMPLE_SELECT",
+                    "value": null
+                  },
+                  "displayType": "USE_ASK_FOR_VALUE",
+                  "askForValueOptions": {
+                    "label": null,
+                    "display": "BLOCK",
+                    "hint": "",
+                    "cascade": "ALL"
+                  },
+                  "displayLabel": null,
+                  "caseSensitive": false
+                },
+                {
+                  "type": "SINGLE",
+                  "jimuFieldName": "offtaketype1",
+                  "operator": "STRING_OPERATOR_IS",
+                  "valueOptions": {
+                    "isValid": true,
+                    "sourceType": "UNIQUE",
+                    "inputEditor": "SIMPLE_SELECT",
+                    "value": null
+                  },
+                  "displayType": "USE_ASK_FOR_VALUE",
+                  "askForValueOptions": {
+                    "label": null,
+                    "display": "BLOCK",
+                    "hint": "",
+                    "cascade": "ALL"
+                  },
+                  "displayLabel": null,
+                  "caseSensitive": false
+                },
+                {
+                  "type": "SINGLE",
+                  "jimuFieldName": "powerpurchaser1company",
+                  "operator": "STRING_OPERATOR_IS",
+                  "valueOptions": {
+                    "isValid": true,
+                    "sourceType": "UNIQUE",
+                    "inputEditor": "SIMPLE_SELECT",
+                    "value": null
+                  },
+                  "displayType": "USE_ASK_FOR_VALUE",
+                  "askForValueOptions": {
+                    "label": null,
+                    "display": "BLOCK",
+                    "hint": "",
+                    "cascade": "ALL"
+                  },
+                  "displayLabel": null,
+                  "caseSensitive": false
+                },
+                {
+                  "type": "SINGLE",
+                  "jimuFieldName": "powerpurchasertype1",
+                  "operator": "STRING_OPERATOR_IS",
+                  "valueOptions": {
+                    "isValid": true,
+                    "sourceType": "UNIQUE",
+                    "inputEditor": "SIMPLE_SELECT",
+                    "value": null
+                  },
+                  "displayType": "USE_ASK_FOR_VALUE",
+                  "askForValueOptions": {
+                    "label": null,
+                    "display": "BLOCK",
+                    "hint": "",
+                    "cascade": "ALL"
+                  },
+                  "displayLabel": null,
+                  "caseSensitive": false
+                },
+                {
+                  "type": "SINGLE",
+                  "jimuFieldName": "pparate1",
+                  "operator": "NUMBER_OPERATOR_IS",
+                  "valueOptions": {
+                    "isValid": true,
+                    "sourceType": "UNIQUE",
+                    "inputEditor": "SIMPLE_SELECT",
+                    "value": null
+                  },
+                  "displayType": "USE_ASK_FOR_VALUE",
+                  "askForValueOptions": {
+                    "label": null,
+                    "display": "BLOCK",
+                    "hint": "",
+                    "cascade": "ALL"
+                  },
+                  "displayLabel": null,
+                  "caseSensitive": false
+                }
+              ],
+              "sql": "",
+              "displaySQL": "(Phase Name = ?) and (States = ?) and (County (1) = ?) and (Developer (1) = ?) and (Owner (1) = ?) and (Offtake Type (1) = ?) and (Power Purchaser (1) Company = ?) and (Power Purchaser Type (1) = ?) and (PPA Rate (1) = ?)"
+            }
+          }
+        ],
+        "arrangeType": "BLOCK",
+        "arrangeWrap": false,
+        "resultListDirection": "Vertical",
+        "resultPagingStyle": "MultiPage",
+        "sizeMap": {
+          "arrangementIconPopper": {
+            "minSize": {
+              "width": 300,
+              "height": 300
+            },
+            "defaultSize": {
+              "width": 360,
+              "height": 480
+            }
+          }
+        }
+      },
+      "id": "widget_22",
+      "dataActions": {
+        "showOnMap": {
+          "config": {
+            "isUseCustomSymbol": true,
+            "symbolOption": {
+              "pointSymbol": {
+                "type": "esriSMS",
+                "color": [
+                  255,
+                  255,
+                  0,
+                  150
+                ],
+                "angle": 0,
+                "xoffset": 0,
+                "yoffset": 0,
+                "size": 12,
+                "style": "esriSMSCircle",
+                "outline": {
+                  "type": "esriSLS",
+                  "color": [
+                    255,
+                    255,
+                    0,
+                    150
+                  ],
+                  "width": 1,
+                  "style": "esriSLSSolid"
+                }
+              },
+              "polylineSymbol": {
+                "type": "esriSLS",
+                "color": [
+                  255,
+                  255,
+                  0,
+                  150
+                ],
+                "width": 0.75,
+                "style": "esriSLSSolid"
+              },
+              "polygonSymbol": {
+                "type": "esriSFS",
+                "color": [
+                  255,
+                  255,
+                  0,
+                  150
+                ],
+                "outline": {
+                  "type": "esriSLS",
+                  "color": [
+                    255,
+                    255,
+                    0,
+                    150
+                  ],
+                  "width": 1,
+                  "style": "esriSLSSolid"
+                },
+                "style": "esriSFSSolid"
+              }
+            }
+          }
+        }
+      },
+      "outputDataSources": [
+        "widget_22_output_022883939902799577",
+        "widget_22_output_07274889165184217",
+        "widget_22_output_15500933310413711"
+      ],
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_1-1900892d1d9-layer-29-190198c567d-layer-31",
+          "mainDataSourceId": "dataSource_1-1900892d1d9-layer-29-190198c567d-layer-31",
+          "rootDataSourceId": "dataSource_1",
+          "fields": [
+            "phasetype",
+            "phasename",
+            "state1",
+            "county1",
+            "developer1",
+            "owner1",
+            "offtaketype1",
+            "powerpurchaser1",
+            "pparate1"
+          ],
+          "useFieldsInPopupInfo": true
+        },
+        {
+          "dataSourceId": "dataSource_1-1900892d1d9-layer-29-19027bc5267-layer-32",
+          "mainDataSourceId": "dataSource_1-1900892d1d9-layer-29-19027bc5267-layer-32",
+          "rootDataSourceId": "dataSource_1",
+          "fields": [
+            "states",
+            "counties",
+            "developer1",
+            "owner1",
+            "offtaketype1",
+            "powerpurchaser1",
+            "pparates"
+          ],
+          "useFieldsInPopupInfo": true
+        },
+        {
+          "dataSourceId": "dataSource_1-1900892d1d9-layer-29-19027239c5f-layer-32",
+          "mainDataSourceId": "dataSource_1-1900892d1d9-layer-29-19027239c5f-layer-32",
+          "rootDataSourceId": "dataSource_1",
+          "fields": [
+            "phasename",
+            "states",
+            "county1",
+            "developer1",
+            "owner1",
+            "offtaketype1",
+            "powerpurchaser1company",
+            "powerpurchasertype1",
+            "pparate1"
+          ],
+          "useFieldsInPopupInfo": true
+        }
+      ]
+    },
+    "widget_23": {
+      "uri": "widgets/arcgis/map-layers/",
+      "version": "1.15.0",
+      "label": "Map Layers",
+      "config": {
+        "useMapWidget": true
+      },
+      "id": "widget_23",
+      "useMapWidgetIds": [
+        "widget_2"
+      ],
+      "enableDataAction": false
+    },
+    "widget_24": {
+      "uri": "widgets/turbinehub/",
+      "version": "1.14.0",
+      "label": "Analyze Wind Resource",
+      "config": {},
+      "id": "widget_24",
+      "useDataSourcesEnabled": true,
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_1-1900892d1d9-layer-29-19027239c5f-layer-32",
+          "mainDataSourceId": "dataSource_1-1900892d1d9-layer-29-19027239c5f-layer-32",
+          "rootDataSourceId": "dataSource_1"
+        }
+      ]
+    }
+  },
+  "widgetsManifest": {},
+  "views": {},
+  "sections": {},
+  "dialogs": {},
+  "dataSources": {
+    "dataSource_1": {
+      "id": "dataSource_1",
+      "type": "WEB_MAP",
+      "sourceLabel": "June 2024 ResourceProfit Map for App",
+      "itemId": "0530b3f81279480fb97ab6b3279b4fb1",
+      "portalUrl": "https://Gore-Creek-E.maps.arcgis.com"
+    },
+    "widget_7_ouput": {
+      "id": "widget_7_ouput",
+      "type": "FEATURE_LAYER",
+      "label": "Chart 3 statistics",
+      "originDataSources": [
+        {
+          "dataSourceId": "dataSource_1-1900892d1d9-layer-29-190198c567d-layer-31",
+          "mainDataSourceId": "dataSource_1-1900892d1d9-layer-29-190198c567d-layer-31",
+          "rootDataSourceId": "dataSource_1"
+        }
+      ],
+      "isOutputFromWidget": true,
+      "isDataInDataSourceInstance": true,
+      "schema": {
+        "idField": "__outputid__",
+        "label": "Chart 3 statistics",
+        "fields": {
+          "__outputid__": {
+            "jimuName": "__outputid__",
+            "alias": "OBJECTID",
+            "type": "NUMBER",
+            "name": "__outputid__"
+          },
+          "state1": {
+            "jimuName": "state1",
+            "name": "state1",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "State (1)",
+            "format": null,
+            "originFields": [
+              "state1"
+            ]
+          },
+          "count_of_OBJECTID": {
+            "jimuName": "count_of_OBJECTID",
+            "name": "count_of_OBJECTID",
+            "type": "NUMBER",
+            "esriType": "esriFieldTypeOID",
+            "alias": "Count of OBJECTID",
+            "format": {
+              "digitSeparator": false,
+              "places": 0
+            },
+            "originFields": [
+              "OBJECTID"
+            ]
+          }
+        }
+      }
+    },
+    "widget_8_ouput": {
+      "id": "widget_8_ouput",
+      "type": "FEATURE_LAYER",
+      "label": "Chart 4 statistics",
+      "originDataSources": [
+        {
+          "dataSourceId": "dataSource_1-1900892d1d9-layer-29-190198c567d-layer-31",
+          "mainDataSourceId": "dataSource_1-1900892d1d9-layer-29-190198c567d-layer-31",
+          "rootDataSourceId": "dataSource_1"
+        }
+      ],
+      "isOutputFromWidget": true,
+      "isDataInDataSourceInstance": true,
+      "schema": {
+        "idField": "__outputid__",
+        "label": "Chart 4 statistics",
+        "fields": {
+          "__outputid__": {
+            "jimuName": "__outputid__",
+            "alias": "OBJECTID",
+            "type": "NUMBER",
+            "name": "__outputid__"
+          },
+          "phasetype": {
+            "jimuName": "phasetype",
+            "name": "phasetype",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "Phase Type",
+            "format": null,
+            "originFields": [
+              "phasetype"
+            ]
+          },
+          "count_of_OBJECTID": {
+            "jimuName": "count_of_OBJECTID",
+            "name": "count_of_OBJECTID",
+            "type": "NUMBER",
+            "esriType": "esriFieldTypeOID",
+            "alias": "Count of OBJECTID",
+            "format": {
+              "digitSeparator": false,
+              "places": 0
+            },
+            "originFields": [
+              "OBJECTID"
+            ]
+          }
+        }
+      }
+    },
+    "widget_12_ouput": {
+      "id": "widget_12_ouput",
+      "type": "FEATURE_LAYER",
+      "label": "Chart 5 statistics",
+      "originDataSources": [
+        {
+          "dataSourceId": "dataSource_1-1900892d1d9-layer-29-190198c567d-layer-31",
+          "mainDataSourceId": "dataSource_1-1900892d1d9-layer-29-190198c567d-layer-31",
+          "rootDataSourceId": "dataSource_1"
+        }
+      ],
+      "isOutputFromWidget": true,
+      "isDataInDataSourceInstance": true,
+      "schema": {
+        "idField": "__outputid__",
+        "label": "Chart 5 statistics",
+        "fields": {
+          "__outputid__": {
+            "jimuName": "__outputid__",
+            "alias": "OBJECTID",
+            "type": "NUMBER",
+            "name": "__outputid__"
+          },
+          "offtaketype1": {
+            "jimuName": "offtaketype1",
+            "name": "offtaketype1",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "Offtake Type (1)",
+            "format": null,
+            "originFields": [
+              "offtaketype1"
+            ]
+          },
+          "count_of_OBJECTID": {
+            "jimuName": "count_of_OBJECTID",
+            "name": "count_of_OBJECTID",
+            "type": "NUMBER",
+            "esriType": "esriFieldTypeOID",
+            "alias": "Count of OBJECTID",
+            "format": {
+              "digitSeparator": false,
+              "places": 0
+            },
+            "originFields": [
+              "OBJECTID"
+            ]
+          }
+        }
+      }
+    },
+    "widget_13_ouput": {
+      "id": "widget_13_ouput",
+      "type": "FEATURE_LAYER",
+      "label": "Chart 6 statistics",
+      "originDataSources": [
+        {
+          "dataSourceId": "dataSource_1-1900892d1d9-layer-29-190198c567d-layer-31",
+          "mainDataSourceId": "dataSource_1-1900892d1d9-layer-29-190198c567d-layer-31",
+          "rootDataSourceId": "dataSource_1"
+        }
+      ],
+      "isOutputFromWidget": true,
+      "isDataInDataSourceInstance": true,
+      "schema": {
+        "idField": "__outputid__",
+        "label": "Chart 6 statistics",
+        "fields": {
+          "__outputid__": {
+            "jimuName": "__outputid__",
+            "alias": "OBJECTID",
+            "type": "NUMBER",
+            "name": "__outputid__"
+          },
+          "minValue": {
+            "jimuName": "minValue",
+            "type": "NUMBER",
+            "esriType": "esriFieldTypeDouble",
+            "name": "minValue",
+            "alias": "Min value",
+            "originFields": [
+              "pparate1"
+            ],
+            "format": {
+              "digitSeparator": false,
+              "places": 3
+            }
+          },
+          "maxValue": {
+            "jimuName": "maxValue",
+            "type": "NUMBER",
+            "esriType": "esriFieldTypeDouble",
+            "name": "maxValue",
+            "alias": "Max value",
+            "originFields": [
+              "pparate1"
+            ],
+            "format": {
+              "digitSeparator": false,
+              "places": 3
+            }
+          },
+          "count": {
+            "jimuName": "count",
+            "type": "NUMBER",
+            "esriType": "esriFieldTypeInteger",
+            "name": "count",
+            "alias": "Count",
+            "originFields": [
+              "pparate1"
+            ],
+            "format": {
+              "digitSeparator": false,
+              "places": 0
+            }
+          }
+        }
+      }
+    },
+    "widget_14_ouput": {
+      "id": "widget_14_ouput",
+      "type": "FEATURE_LAYER",
+      "label": "Chart 7 statistics",
+      "originDataSources": [
+        {
+          "dataSourceId": "dataSource_1-1900892d1d9-layer-29-19027bc5267-layer-32",
+          "mainDataSourceId": "dataSource_1-1900892d1d9-layer-29-19027bc5267-layer-32",
+          "rootDataSourceId": "dataSource_1",
+          "fields": [
+            "grossavgcapacitylife",
+            "mwtotcap"
+          ]
+        }
+      ],
+      "isOutputFromWidget": true,
+      "isDataInDataSourceInstance": true,
+      "schema": {
+        "idField": "__outputid__",
+        "label": "Chart 7 statistics",
+        "fields": {
+          "__outputid__": {
+            "jimuName": "__outputid__",
+            "alias": "OBJECTID",
+            "type": "NUMBER",
+            "name": "__outputid__"
+          },
+          "grossavgcapacitylife": {
+            "jimuName": "grossavgcapacitylife",
+            "name": "grossavgcapacitylife",
+            "type": "NUMBER",
+            "esriType": "esriFieldTypeDouble",
+            "alias": "Gross Average Capacity Factor (Lifetime)",
+            "format": {
+              "digitSeparator": false,
+              "places": 2
+            },
+            "originFields": [
+              "grossavgcapacitylife"
+            ]
+          },
+          "mwtotcap": {
+            "jimuName": "mwtotcap",
+            "name": "mwtotcap",
+            "type": "NUMBER",
+            "esriType": "esriFieldTypeDouble",
+            "alias": "MW Total Capacity",
+            "format": {
+              "digitSeparator": false,
+              "places": 6
+            },
+            "originFields": [
+              "mwtotcap"
+            ]
+          }
+        }
+      }
+    },
+    "widget_15_ouput": {
+      "id": "widget_15_ouput",
+      "type": "FEATURE_LAYER",
+      "label": "Chart 8 statistics",
+      "originDataSources": [
+        {
+          "dataSourceId": "dataSource_1-1900892d1d9-layer-29-19027239c5f-layer-32",
+          "mainDataSourceId": "dataSource_1-1900892d1d9-layer-29-19027239c5f-layer-32",
+          "rootDataSourceId": "dataSource_1",
+          "fields": [
+            "averagecapacityfactorlifetime",
+            "mwtotalcapacity"
+          ]
+        }
+      ],
+      "isOutputFromWidget": true,
+      "isDataInDataSourceInstance": true,
+      "schema": {
+        "idField": "__outputid__",
+        "label": "Chart 8 statistics",
+        "fields": {
+          "__outputid__": {
+            "jimuName": "__outputid__",
+            "alias": "OBJECTID",
+            "type": "NUMBER",
+            "name": "__outputid__"
+          },
+          "averagecapacityfactorlifetime": {
+            "jimuName": "averagecapacityfactorlifetime",
+            "name": "averagecapacityfactorlifetime",
+            "type": "NUMBER",
+            "esriType": "esriFieldTypeDouble",
+            "alias": "Average Capacity Factor (Lifetime)",
+            "format": {
+              "digitSeparator": false,
+              "places": 6
+            },
+            "originFields": [
+              "averagecapacityfactorlifetime"
+            ]
+          },
+          "mwtotalcapacity": {
+            "jimuName": "mwtotalcapacity",
+            "name": "mwtotalcapacity",
+            "type": "NUMBER",
+            "esriType": "esriFieldTypeDouble",
+            "alias": "MW Total Capacity",
+            "format": {
+              "digitSeparator": false,
+              "places": 6
+            },
+            "originFields": [
+              "mwtotalcapacity"
+            ]
+          }
+        }
+      }
+    },
+    "widget_16_ouput": {
+      "id": "widget_16_ouput",
+      "type": "FEATURE_LAYER",
+      "label": "Chart 9 statistics",
+      "originDataSources": [
+        {
+          "dataSourceId": "dataSource_1-1900892d1d9-layer-29-19027bc5267-layer-32",
+          "mainDataSourceId": "dataSource_1-1900892d1d9-layer-29-19027bc5267-layer-32",
+          "rootDataSourceId": "dataSource_1",
+          "fields": [
+            "owner1",
+            "OBJECTID"
+          ]
+        }
+      ],
+      "isOutputFromWidget": true,
+      "isDataInDataSourceInstance": true,
+      "schema": {
+        "idField": "__outputid__",
+        "label": "Chart 9 statistics",
+        "fields": {
+          "__outputid__": {
+            "jimuName": "__outputid__",
+            "alias": "OBJECTID",
+            "type": "NUMBER",
+            "name": "__outputid__"
+          },
+          "owner1": {
+            "jimuName": "owner1",
+            "name": "owner1",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "Owner (1)",
+            "format": null,
+            "originFields": [
+              "owner1"
+            ]
+          },
+          "count_of_OBJECTID": {
+            "jimuName": "count_of_OBJECTID",
+            "name": "count_of_OBJECTID",
+            "type": "NUMBER",
+            "esriType": "esriFieldTypeOID",
+            "alias": "Count of OBJECTID",
+            "format": {
+              "digitSeparator": false,
+              "places": 0
+            },
+            "originFields": [
+              "OBJECTID"
+            ]
+          }
+        }
+      }
+    },
+    "widget_18_ouput": {
+      "id": "widget_18_ouput",
+      "type": "FEATURE_LAYER",
+      "label": "Chart 10 statistics",
+      "originDataSources": [
+        {
+          "dataSourceId": "dataSource_1-1900892d1d9-layer-29-19027239c5f-layer-32",
+          "mainDataSourceId": "dataSource_1-1900892d1d9-layer-29-19027239c5f-layer-32",
+          "rootDataSourceId": "dataSource_1",
+          "fields": [
+            "owner1",
+            "OBJECTID"
+          ]
+        }
+      ],
+      "isOutputFromWidget": true,
+      "isDataInDataSourceInstance": true,
+      "schema": {
+        "idField": "__outputid__",
+        "label": "Chart 10 statistics",
+        "fields": {
+          "__outputid__": {
+            "jimuName": "__outputid__",
+            "alias": "OBJECTID",
+            "type": "NUMBER",
+            "name": "__outputid__"
+          },
+          "owner1": {
+            "jimuName": "owner1",
+            "name": "owner1",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "Owner (1)",
+            "format": null,
+            "originFields": [
+              "owner1"
+            ]
+          },
+          "count_of_OBJECTID": {
+            "jimuName": "count_of_OBJECTID",
+            "name": "count_of_OBJECTID",
+            "type": "NUMBER",
+            "esriType": "esriFieldTypeOID",
+            "alias": "Count of OBJECTID",
+            "format": {
+              "digitSeparator": false,
+              "places": 0
+            },
+            "originFields": [
+              "OBJECTID"
+            ]
+          }
+        }
+      }
+    },
+    "widget_22_output_022883939902799577": {
+      "id": "widget_22_output_022883939902799577",
+      "label": "TurbineHub Master Renewable Project Layer result",
+      "type": "FEATURE_LAYER",
+      "url": "https://services3.arcgis.com/TT44oWKvts4BijX4/arcgis/rest/services/TurbineHub_Master_Renewable_Project_Layer/FeatureServer/49",
+      "itemId": "4c448e9178e244969300b98093e79ba7",
+      "portalUrl": "https://www.arcgis.com",
+      "originDataSources": [
+        {
+          "dataSourceId": "dataSource_1-1900892d1d9-layer-29-190198c567d-layer-31",
+          "mainDataSourceId": "dataSource_1-1900892d1d9-layer-29-190198c567d-layer-31",
+          "rootDataSourceId": "dataSource_1",
+          "fields": [
+            "phasetype",
+            "phasename",
+            "state1",
+            "county1",
+            "developer1",
+            "owner1",
+            "offtaketype1",
+            "powerpurchaser1",
+            "pparate1"
+          ],
+          "useFieldsInPopupInfo": true
+        }
+      ],
+      "layerId": "49",
+      "isOutputFromWidget": true
+    },
+    "widget_22_output_07274889165184217": {
+      "id": "widget_22_output_07274889165184217",
+      "label": "US Solar Projects June 2024 result",
+      "type": "FEATURE_LAYER",
+      "url": "https://services3.arcgis.com/TT44oWKvts4BijX4/arcgis/rest/services/US_Solar_Projects_June_2024/FeatureServer/37",
+      "itemId": "e89fa570fcf946608bd1e453a2208c15",
+      "portalUrl": "https://www.arcgis.com",
+      "originDataSources": [
+        {
+          "dataSourceId": "dataSource_1-1900892d1d9-layer-29-19027bc5267-layer-32",
+          "mainDataSourceId": "dataSource_1-1900892d1d9-layer-29-19027bc5267-layer-32",
+          "rootDataSourceId": "dataSource_1",
+          "fields": [
+            "states",
+            "counties",
+            "developer1",
+            "owner1",
+            "offtaketype1",
+            "powerpurchaser1",
+            "pparates"
+          ],
+          "useFieldsInPopupInfo": true
+        }
+      ],
+      "layerId": "37",
+      "isOutputFromWidget": true
+    },
+    "widget_22_output_15500933310413711": {
+      "id": "widget_22_output_15500933310413711",
+      "label": "US Onshore Wind Projects June 2024 result",
+      "type": "FEATURE_LAYER",
+      "url": "https://services3.arcgis.com/TT44oWKvts4BijX4/arcgis/rest/services/US_Onshore_Wind_Projects_June_2024/FeatureServer/38",
+      "itemId": "b6e5b840a59f4e489992fe0ac35b20e5",
+      "portalUrl": "https://www.arcgis.com",
+      "originDataSources": [
+        {
+          "dataSourceId": "dataSource_1-1900892d1d9-layer-29-19027239c5f-layer-32",
+          "mainDataSourceId": "dataSource_1-1900892d1d9-layer-29-19027239c5f-layer-32",
+          "rootDataSourceId": "dataSource_1",
+          "fields": [
+            "phasename",
+            "states",
+            "county1",
+            "developer1",
+            "owner1",
+            "offtaketype1",
+            "powerpurchaser1company",
+            "powerpurchasertype1",
+            "pparate1"
+          ],
+          "useFieldsInPopupInfo": true
+        }
+      ],
+      "layerId": "38",
+      "isOutputFromWidget": true
+    }
+  },
+  "messageConfigs": {
+    "messageConfig_2": {
+      "id": "messageConfig_2",
+      "widgetId": "widget_16",
+      "messageType": "DATA_RECORDS_SELECTION_CHANGE",
+      "actions": [
+        {
+          "actionId": "widget_2-filter-1718649844121",
+          "widgetId": "widget_2",
+          "messageWidgetId": "widget_16",
+          "actionName": "filter",
+          "description": null,
+          "config": {
+            "messageUseDataSource": {
+              "dataSourceId": "widget_16_ouput",
+              "mainDataSourceId": "widget_16_ouput",
+              "rootDataSourceId": null,
+              "fields": [
+                "owner1"
+              ]
+            },
+            "actionUseDataSource": {
+              "dataSourceId": "dataSource_1-1900892d1d9-layer-29-19027bc5267-layer-32",
+              "mainDataSourceId": "dataSource_1-1900892d1d9-layer-29-19027bc5267-layer-32",
+              "rootDataSourceId": "dataSource_1",
+              "fields": [
+                "owner1"
+              ]
+            },
+            "sqlExprObj": null,
+            "enabledDataRelationShip": true,
+            "connectionType": "SET_CUSTOM_FIELDS"
+          },
+          "version": "1.14.0",
+          "useDataSources": [
+            {
+              "dataSourceId": "widget_16_ouput",
+              "mainDataSourceId": "widget_16_ouput",
+              "rootDataSourceId": null,
+              "fields": [
+                "owner1"
+              ]
+            },
+            {
+              "dataSourceId": "dataSource_1-1900892d1d9-layer-29-19027bc5267-layer-32",
+              "mainDataSourceId": "dataSource_1-1900892d1d9-layer-29-19027bc5267-layer-32",
+              "rootDataSourceId": "dataSource_1",
+              "fields": [
+                "owner1"
+              ]
+            }
+          ]
+        },
+        {
+          "actionId": "widget_2-filter-1718654466505",
+          "widgetId": "widget_2",
+          "messageWidgetId": "widget_16",
+          "actionName": "filter",
+          "description": null,
+          "config": {
+            "messageUseDataSource": {
+              "dataSourceId": "widget_16_ouput",
+              "mainDataSourceId": "widget_16_ouput",
+              "rootDataSourceId": null,
+              "fields": [
+                "owner1"
+              ]
+            },
+            "actionUseDataSource": {
+              "dataSourceId": "dataSource_1-1900892d1d9-layer-29-190198c567d-layer-31",
+              "mainDataSourceId": "dataSource_1-1900892d1d9-layer-29-190198c567d-layer-31",
+              "rootDataSourceId": "dataSource_1",
+              "fields": [
+                "owner1"
+              ]
+            },
+            "sqlExprObj": null,
+            "enabledDataRelationShip": true,
+            "connectionType": "SET_CUSTOM_FIELDS"
+          },
+          "version": "1.14.0",
+          "useDataSources": [
+            {
+              "dataSourceId": "widget_16_ouput",
+              "mainDataSourceId": "widget_16_ouput",
+              "rootDataSourceId": null,
+              "fields": [
+                "owner1"
+              ]
+            },
+            {
+              "dataSourceId": "dataSource_1-1900892d1d9-layer-29-190198c567d-layer-31",
+              "mainDataSourceId": "dataSource_1-1900892d1d9-layer-29-190198c567d-layer-31",
+              "rootDataSourceId": "dataSource_1",
+              "fields": [
+                "owner1"
+              ]
+            }
+          ]
+        },
+        {
+          "actionId": "filter-data-record-action-1718655041581",
+          "messageWidgetId": "widget_16",
+          "actionName": "filter data record action",
+          "description": null,
+          "config": {
+            "messageUseDataSource": {
+              "dataSourceId": "widget_16_ouput",
+              "mainDataSourceId": "widget_16_ouput",
+              "rootDataSourceId": null,
+              "fields": [
+                "owner1"
+              ]
+            },
+            "actionUseDataSource": {
+              "dataSourceId": "widget_13_ouput-selection",
+              "mainDataSourceId": "widget_13_ouput",
+              "dataViewId": "selection",
+              "fields": [
+                "minValue"
+              ]
+            },
+            "sqlExprObj": null,
+            "enabledDataRelationShip": true,
+            "enableQueryWithCurrentExtent": true,
+            "connectionType": "SET_CUSTOM_FIELDS"
+          },
+          "version": "1.14.0",
+          "useDataSources": [
+            {
+              "dataSourceId": "widget_16_ouput",
+              "mainDataSourceId": "widget_16_ouput",
+              "rootDataSourceId": null,
+              "fields": [
+                "owner1"
+              ]
+            },
+            {
+              "dataSourceId": "widget_13_ouput-selection",
+              "mainDataSourceId": "widget_13_ouput",
+              "dataViewId": "selection",
+              "fields": [
+                "minValue"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "messageConfig_3": {
+      "id": "messageConfig_3",
+      "widgetId": "widget_18",
+      "messageType": "DATA_RECORDS_SELECTION_CHANGE",
+      "actions": [
+        {
+          "actionId": "widget_2-filter-1718653990757",
+          "widgetId": "widget_2",
+          "messageWidgetId": "widget_18",
+          "actionName": "filter",
+          "description": null,
+          "config": {
+            "messageUseDataSource": {
+              "dataSourceId": "widget_18_ouput",
+              "mainDataSourceId": "widget_18_ouput",
+              "rootDataSourceId": null,
+              "fields": [
+                "owner1"
+              ]
+            },
+            "actionUseDataSource": {
+              "dataSourceId": "dataSource_1-1900892d1d9-layer-29-19027239c5f-layer-32",
+              "mainDataSourceId": "dataSource_1-1900892d1d9-layer-29-19027239c5f-layer-32",
+              "rootDataSourceId": "dataSource_1",
+              "fields": [
+                "owner1"
+              ]
+            },
+            "sqlExprObj": null,
+            "enabledDataRelationShip": true,
+            "connectionType": "SET_CUSTOM_FIELDS"
+          },
+          "version": "1.14.0",
+          "useDataSources": [
+            {
+              "dataSourceId": "widget_18_ouput",
+              "mainDataSourceId": "widget_18_ouput",
+              "rootDataSourceId": null,
+              "fields": [
+                "owner1"
+              ]
+            },
+            {
+              "dataSourceId": "dataSource_1-1900892d1d9-layer-29-19027239c5f-layer-32",
+              "mainDataSourceId": "dataSource_1-1900892d1d9-layer-29-19027239c5f-layer-32",
+              "rootDataSourceId": "dataSource_1",
+              "fields": [
+                "owner1"
+              ]
+            }
+          ]
+        },
+        {
+          "actionId": "widget_2-filter-1718654320175",
+          "widgetId": "widget_2",
+          "messageWidgetId": "widget_18",
+          "actionName": "filter",
+          "description": null,
+          "config": {
+            "messageUseDataSource": {
+              "dataSourceId": "widget_18_ouput",
+              "mainDataSourceId": "widget_18_ouput",
+              "rootDataSourceId": null,
+              "fields": [
+                "owner1"
+              ]
+            },
+            "actionUseDataSource": {
+              "dataSourceId": "dataSource_1-1900892d1d9-layer-29-190198c567d-layer-31",
+              "mainDataSourceId": "dataSource_1-1900892d1d9-layer-29-190198c567d-layer-31",
+              "rootDataSourceId": "dataSource_1",
+              "fields": [
+                "owner1"
+              ]
+            },
+            "sqlExprObj": null,
+            "enabledDataRelationShip": true,
+            "connectionType": "SET_CUSTOM_FIELDS"
+          },
+          "version": "1.14.0",
+          "useDataSources": [
+            {
+              "dataSourceId": "widget_18_ouput",
+              "mainDataSourceId": "widget_18_ouput",
+              "rootDataSourceId": null,
+              "fields": [
+                "owner1"
+              ]
+            },
+            {
+              "dataSourceId": "dataSource_1-1900892d1d9-layer-29-190198c567d-layer-31",
+              "mainDataSourceId": "dataSource_1-1900892d1d9-layer-29-190198c567d-layer-31",
+              "rootDataSourceId": "dataSource_1",
+              "fields": [
+                "owner1"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "messageConfig_4": {
+      "id": "messageConfig_4",
+      "widgetId": "widget_15",
+      "messageType": "DATA_RECORDS_SELECTION_CHANGE",
+      "actions": [
+        {
+          "actionId": "widget_2-filter-1718656525954",
+          "widgetId": "widget_2",
+          "messageWidgetId": "widget_15",
+          "actionName": "filter",
+          "description": null,
+          "config": {
+            "messageUseDataSource": {
+              "dataSourceId": "widget_15_ouput",
+              "mainDataSourceId": "widget_15_ouput",
+              "rootDataSourceId": null,
+              "fields": [
+                "mwtotalcapacity"
+              ]
+            },
+            "actionUseDataSource": {
+              "dataSourceId": "dataSource_1-1900892d1d9-layer-29-19027239c5f-layer-32",
+              "mainDataSourceId": "dataSource_1-1900892d1d9-layer-29-19027239c5f-layer-32",
+              "rootDataSourceId": "dataSource_1",
+              "fields": [
+                "mwtotalcapacity"
+              ]
+            },
+            "sqlExprObj": null,
+            "enabledDataRelationShip": true,
+            "connectionType": "SET_CUSTOM_FIELDS"
+          },
+          "version": "1.14.0",
+          "useDataSources": [
+            {
+              "dataSourceId": "widget_15_ouput",
+              "mainDataSourceId": "widget_15_ouput",
+              "rootDataSourceId": null,
+              "fields": [
+                "mwtotalcapacity"
+              ]
+            },
+            {
+              "dataSourceId": "dataSource_1-1900892d1d9-layer-29-19027239c5f-layer-32",
+              "mainDataSourceId": "dataSource_1-1900892d1d9-layer-29-19027239c5f-layer-32",
+              "rootDataSourceId": "dataSource_1",
+              "fields": [
+                "mwtotalcapacity"
+              ]
+            }
+          ]
+        },
+        {
+          "actionId": "widget_2-filter-1718679783294",
+          "widgetId": "widget_2",
+          "messageWidgetId": "widget_15",
+          "actionName": "filter",
+          "description": null,
+          "config": {
+            "messageUseDataSource": {
+              "dataSourceId": "widget_15_ouput",
+              "mainDataSourceId": "widget_15_ouput",
+              "rootDataSourceId": null,
+              "fields": [
+                "mwtotalcapacity"
+              ]
+            },
+            "actionUseDataSource": {
+              "dataSourceId": "dataSource_1-1900892d1d9-layer-29-19027239c5f-layer-32",
+              "mainDataSourceId": "dataSource_1-1900892d1d9-layer-29-19027239c5f-layer-32",
+              "rootDataSourceId": "dataSource_1",
+              "fields": [
+                "mwtotalcapacity"
+              ]
+            },
+            "sqlExprObj": null,
+            "enabledDataRelationShip": true,
+            "connectionType": "SET_CUSTOM_FIELDS"
+          },
+          "version": "1.14.0",
+          "useDataSources": [
+            {
+              "dataSourceId": "widget_15_ouput",
+              "mainDataSourceId": "widget_15_ouput",
+              "rootDataSourceId": null,
+              "fields": [
+                "mwtotalcapacity"
+              ]
+            },
+            {
+              "dataSourceId": "dataSource_1-1900892d1d9-layer-29-19027239c5f-layer-32",
+              "mainDataSourceId": "dataSource_1-1900892d1d9-layer-29-19027239c5f-layer-32",
+              "rootDataSourceId": "dataSource_1",
+              "fields": [
+                "mwtotalcapacity"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "messageConfig_5": {
+      "id": "messageConfig_5",
+      "widgetId": "widget_14",
+      "messageType": "DATA_RECORDS_SELECTION_CHANGE",
+      "actions": [
+        {
+          "actionId": "widget_2-filter-1718659210297",
+          "widgetId": "widget_2",
+          "messageWidgetId": "widget_14",
+          "actionName": "filter",
+          "description": null,
+          "config": {
+            "messageUseDataSource": {
+              "dataSourceId": "widget_14_ouput",
+              "mainDataSourceId": "widget_14_ouput",
+              "rootDataSourceId": null,
+              "fields": [
+                "mwtotcap"
+              ]
+            },
+            "actionUseDataSource": {
+              "dataSourceId": "dataSource_1-1900892d1d9-layer-29-190198c567d-layer-31",
+              "mainDataSourceId": "dataSource_1-1900892d1d9-layer-29-190198c567d-layer-31",
+              "rootDataSourceId": "dataSource_1",
+              "fields": [
+                "mwtotalcapacity"
+              ]
+            },
+            "sqlExprObj": null,
+            "enabledDataRelationShip": true,
+            "connectionType": "SET_CUSTOM_FIELDS"
+          },
+          "version": "1.14.0",
+          "useDataSources": [
+            {
+              "dataSourceId": "widget_14_ouput",
+              "mainDataSourceId": "widget_14_ouput",
+              "rootDataSourceId": null,
+              "fields": [
+                "mwtotcap"
+              ]
+            },
+            {
+              "dataSourceId": "dataSource_1-1900892d1d9-layer-29-190198c567d-layer-31",
+              "mainDataSourceId": "dataSource_1-1900892d1d9-layer-29-190198c567d-layer-31",
+              "rootDataSourceId": "dataSource_1",
+              "fields": [
+                "mwtotalcapacity"
+              ]
+            }
+          ]
+        },
+        {
+          "actionId": "widget_2-filter-1718679742939",
+          "widgetId": "widget_2",
+          "messageWidgetId": "widget_14",
+          "actionName": "filter",
+          "description": null,
+          "config": {
+            "messageUseDataSource": {
+              "dataSourceId": "widget_14_ouput",
+              "mainDataSourceId": "widget_14_ouput",
+              "rootDataSourceId": null,
+              "fields": [
+                "mwtotcap"
+              ]
+            },
+            "actionUseDataSource": {
+              "dataSourceId": "dataSource_1-1900892d1d9-layer-29-19027bc5267-layer-32",
+              "mainDataSourceId": "dataSource_1-1900892d1d9-layer-29-19027bc5267-layer-32",
+              "rootDataSourceId": "dataSource_1",
+              "fields": [
+                "mwtotcap"
+              ]
+            },
+            "sqlExprObj": null,
+            "enabledDataRelationShip": true,
+            "connectionType": "SET_CUSTOM_FIELDS"
+          },
+          "version": "1.14.0",
+          "useDataSources": [
+            {
+              "dataSourceId": "widget_14_ouput",
+              "mainDataSourceId": "widget_14_ouput",
+              "rootDataSourceId": null,
+              "fields": [
+                "mwtotcap"
+              ]
+            },
+            {
+              "dataSourceId": "dataSource_1-1900892d1d9-layer-29-19027bc5267-layer-32",
+              "mainDataSourceId": "dataSource_1-1900892d1d9-layer-29-19027bc5267-layer-32",
+              "rootDataSourceId": "dataSource_1",
+              "fields": [
+                "mwtotcap"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "messageConfig_6": {
+      "id": "messageConfig_6",
+      "widgetId": "widget_7",
+      "messageType": "DATA_RECORDS_SELECTION_CHANGE",
+      "actions": [
+        {
+          "actionId": "widget_2-filter-1718659934302",
+          "widgetId": "widget_2",
+          "messageWidgetId": "widget_7",
+          "actionName": "filter",
+          "description": null,
+          "config": {
+            "messageUseDataSource": {
+              "dataSourceId": "widget_7_ouput",
+              "mainDataSourceId": "widget_7_ouput",
+              "rootDataSourceId": null,
+              "fields": [
+                "state1"
+              ]
+            },
+            "actionUseDataSource": {
+              "dataSourceId": "dataSource_1-1900892d1d9-layer-29-190198c567d-layer-31",
+              "mainDataSourceId": "dataSource_1-1900892d1d9-layer-29-190198c567d-layer-31",
+              "rootDataSourceId": "dataSource_1",
+              "fields": [
+                "state1"
+              ]
+            },
+            "sqlExprObj": null,
+            "enabledDataRelationShip": true,
+            "connectionType": "SET_CUSTOM_FIELDS"
+          },
+          "version": "1.14.0",
+          "useDataSources": [
+            {
+              "dataSourceId": "widget_7_ouput",
+              "mainDataSourceId": "widget_7_ouput",
+              "rootDataSourceId": null,
+              "fields": [
+                "state1"
+              ]
+            },
+            {
+              "dataSourceId": "dataSource_1-1900892d1d9-layer-29-190198c567d-layer-31",
+              "mainDataSourceId": "dataSource_1-1900892d1d9-layer-29-190198c567d-layer-31",
+              "rootDataSourceId": "dataSource_1",
+              "fields": [
+                "state1"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "attributes": {
+    "portalUrl": "https://Gore-Creek-E.maps.arcgis.com"
+  },
+  "sharedThemeVariables": null,
+  "originExbVersion": "1.15.0",
+  "pageStructure": [
+    {
+      "page_0": []
+    }
+  ],
+  "customTheme": {},
+  "timestamp": 1721845416500,
+  "footer": {
+    "layout": {
+      "LARGE": "layout_5"
+    },
+    "height": {
+      "LARGE": 75
+    }
+  },
+  "header": {
+    "layout": {
+      "LARGE": "layout_6"
+    },
+    "height": {
+      "LARGE": 75
+    },
+    "backgroundColor": "var(--light)"
+  }
+}
